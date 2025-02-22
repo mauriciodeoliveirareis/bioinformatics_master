@@ -1,0 +1,127 @@
+
+---
+title: "Informe Ejecutivo de la Base de Datos"
+output:
+  word_document: default
+  pdf_document:
+    keep_tex: true
+    number_sections: true
+---
+
+```{r setup, include=FALSE}
+# Configuración inicial
+library(DBI)
+library(ggplot2)
+library(dplyr)
+
+# Conexión a la base de datos
+con <- dbConnect(
+  RMySQL::MySQL(),
+  dbname = "dbcuwi9wwrkrrk",
+  host = "34.175.14.63",
+  user = "unasv8vnmxzty",
+  password = "jkv6fpshdpqv"
+)
+```
+
+## Resumen de la Base de Datos
+
+### Tablas Disponibles
+```{r, echo=FALSE}
+# Listar tablas
+tablas <- dbListTables(con)
+tablas
+```
+
+### Análisis de Estructura de las Tablas
+```{r, echo=FALSE}
+# Obtener columnas y tipos de datos
+estructura <- lapply(tablas, function(tabla) {
+  data.frame(
+    Tabla = tabla,
+    Campo = dbListFields(con, tabla),
+    stringsAsFactors = FALSE
+  )
+})
+estructura <- do.call(rbind, estructura)
+estructura
+```
+
+## Análisis de Pacientes
+
+### Resumen General
+```{r, echo=FALSE}
+pacientes <- dbGetQuery(con, "SELECT * FROM Pacientes")
+summary(pacientes)
+```
+
+### Distribución por Edad
+```{r, echo=FALSE}
+# Convertir Fecha_Nacimiento a tipo Date si es necesario
+pacientes <- pacientes %>%
+    mutate(Fecha_Nacimiento = as.Date(Fecha_Nacimiento, format = "%Y-%m-%d"))
+
+# Calcular la edad en años
+pacientes <- pacientes %>%
+    mutate(Edad = as.numeric(difftime(Sys.Date(), Fecha_Nacimiento, units = "days")) %/% 365)
+
+# Gráfica de edades
+ggplot(pacientes, aes(x = as.numeric(Edad))) +
+  geom_histogram(binwidth = 5, fill = "skyblue", color = "black") +
+  labs(title = "Distribución por Edad", x = "Edad", y = "Frecuencia")
+```
+
+### Distribución por Sexo
+```{r, echo=FALSE}
+ggplot(pacientes, aes(x = Sexo, fill = Sexo)) +
+  geom_bar() +
+  labs(title = "Distribución por Sexo", x = "Sexo", y = "Frecuencia")
+```
+
+### Distribución por Fecha de Ingreso
+```{r, echo=FALSE}
+# Gráfica de fechas con geom_bar para manejar datos discretos
+ggplot(pacientes, aes(x = Fecha_Ingreso)) +
+    geom_bar(fill = "lightgreen", color = "black") +
+    labs(title = "Distribución por Fecha de Ingreso", x = "Fecha de Ingreso", y = "Frecuencia")
+```
+
+## Análisis de Visitas
+
+### Resumen General
+```{r, echo=FALSE}
+visitas <- dbGetQuery(con, "SELECT * FROM Visitas")
+summary(visitas)
+```
+
+### Glucosa por Fecha de Visita
+```{r, echo=FALSE}
+ggplot(visitas, aes(x = Fecha_Visita, y = Glucosa_mg_dL)) +
+  geom_line(color = "blue") +
+  labs(title = "Glucosa por Fecha de Visita", x = "Fecha de Visita", y = "Glucosa (mg/dL)")
+```
+
+## Análisis de Datos Basales
+
+### Resumen General
+```{r, echo=FALSE}
+datos_basales <- dbGetQuery(con, "SELECT * FROM Datos_Basales")
+summary(datos_basales)
+```
+
+### Relación entre Peso e IMC
+```{r, echo=FALSE}
+ggplot(datos_basales, aes(x = Peso_kg, y = IMC)) +
+  geom_point(color = "purple") +
+  geom_smooth(method = "lm", se = FALSE, color = "red") +
+  labs(title = "Relación entre Peso e IMC", x = "Peso (kg)", y = "IMC")
+```
+
+## Conclusiones
+- Este informe proporciona un resumen completo de las tablas y los datos en la base de datos.
+- Los análisis específicos permiten observar tendencias clave, como la distribución de pacientes por edad, sexo y visitas.
+
+```{r, include=FALSE}
+# Desconectar la base de datos
+dbDisconnect(con)
+```
