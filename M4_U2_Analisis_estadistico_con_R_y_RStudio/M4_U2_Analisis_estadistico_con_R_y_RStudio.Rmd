@@ -1,0 +1,838 @@
+---
+title: "Módulo 4 Unidad 2. Análisis estadístico con R y RStudio"
+author: "Mauricio Reis"
+date: '2025-02-22'
+output: html_document
+---
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(RColorBrewer)
+library(rstatix)
+```
+
+```{r}
+setwd("/Users/mauricio.reis/bioinformatics/bioinformatics_master/M4_U2_Analisis_estadistico_con_R_y_RStudio")
+```
+
+
+## 1. Exploration of the dataset: Myfitnesspal personal data
+
+The objective of this exploration is to explore my data about exercise and meals to answer the following questions:
+- What's my real basal metabolism? (Calories consumed without any exercise). How much it varies with weight
+- What percentage of calories I burn with "Active living" (going to places walking or cycling) vs. on the gym?
+- Which days of the week I'm most active?1
+- 
+
+- 
+In this investigation I will work with the data I've exported from myfitnesspal application. I've exported my data from 2023-08-08 to 2025-02-22 to 3 distinct datasets:
+- Exercise-Summary.csv: Data collected from my Garmin Watch about exercise and steps done in a day
+  - Date: date of exercise in format yyyy-mm-dd. String
+  - Exercise: name of the activity registered on the Garmin device. String
+  - Type: Type of activity. String
+  - Exercise Calories: Calories consumed by activity. Number
+  - Exercise Minutes: How many minutes were used in the activity (steps will default to 1 because it's measured across the day). Number
+  - Sets: sets for a given exercise. Number	
+  - Reps Per Set Kilograms: Relationship between reps per set. Number
+  - Steps: Steps counter. Number
+  - Note
+- Measurement-Summary.csv: Data exported from my scale registering my weight right after wake up	
+  - Date: date of the measurement in format yyyy-mm-dd. String
+  - Weight: weight measured. Number
+  
+- Nutrition-Summary.csv: Data about Calories, Macro and Micronutriens consumed on my meals logged in Myfitnesspal
+  - Date: date of the meal in format yyyy-mm-dd. String
+  - Meal: Name of the meal as defined in Myfitnesspal
+  - Calories
+  - Fat (g)	
+  - Saturated Fat	
+  - Polyunsaturated Fat	
+  - Monounsaturated Fat	
+  - Trans Fat	
+  - Cholesterol	
+  - Sodium (mg)	
+  - Potassium	
+  - Carbohydrates (g)	
+  - Fiber	Sugar	Protein (g)	
+  - Vitamin A	
+  - Vitamin C
+  - Calcium	
+  - Iron	
+  - Note: Specific details about individual meal done by myself
+
+
+```{r}
+data_folder <- "data_myfitnesspal_2023-08-08-to-2025-02-22/"
+exercise_summary <- read.csv(paste(data_folder, "Exercise-Summary.csv", sep = ""))
+measurement_summary <- read.csv(paste(data_folder, "Measurement-Summary.csv", sep = ""))
+nutrition_summary.csv <- read.csv(paste(data_folder, "Nutrition-Summary.csv", sep = ""))
+
+```
+### Excercise Sumary dataset basics
+
+```{r}
+head(exercise_summary)
+```
+
+```{r}
+# O las últimas
+tail(exercise_summary)
+```
+
+```{r}
+# dataset structure
+str(exercise_summary)
+```
+
+TODO Mauricio: continue here, revise objectives
+
+Vemos que el dataset contiene 32 observaciones y 11 variables numéricas. Sin embargo, sabemos por la información consultada y por los valores de las variables que hay algunas variables que representan categorías, por lo que tenemos que preprocesar los datos previo a su análisis
+
+## 2. Preparación de los datos
+
+Durante la exploración de los datos, hemos observado que algunas variables representan categorías. Vamos a modificar su tipo de datos.
+
+Por un lado, las variables "vs" y "am" son claramente dicotómicas, por las que las convertemos en un factor:
+
+```{r}
+mtcars$vs <- as.factor(mtcars$vs)
+mtcars$am <- as.factor(mtcars$am)
+```
+
+Por otro lado, las variables "cyl", "gear" y "carb" son variables numéricas discretas que también pueden ser tratadas como categóricas. Dependerá del **objetivo** del análisis. Las variables de tipo "factor" nos servirán para formar grupos a comparar a partir de estas variables.
+
+En nuestro caso, vamos a transformar la variable "cyl" a factor y a dejar las otras dos como numéricas.
+
+```{r}
+mtcars$cyl <- as.factor(mtcars$cyl)
+```
+
+Volvemos a consultar la estructura del dataset.
+
+```{r}
+str(mtcars)
+```
+
+En esta primera fase también podemos comprobar la presencia/ausencia de valores faltantes
+
+```{r}
+apply(is.na(mtcars), 2, sum)
+```
+
+No hay valores faltantes.
+
+## 3. Estadística descriptiva
+
+La estadística descriptiva es la rama de la estadística que resume, organiza y presenta datos de manera visual y numérica para facilitar su comprensión sin extraer conclusiones más allá de la muestra analizada.
+
+### Descripción numérica
+
+En primer lugar, la función summary() nos permite obtener un resumen descriptivo de las variables del dataset.
+
+Para las variables numéricas, obtenemos el mínimo, máximo, promedio, mediana, 1r cuartil, y 3r cuartil.
+
+Para las variables categóricas obtenemos la tabla de frecuencias absolutas.
+
+```{r}
+summary(mtcars)
+```
+
+Sin embargo, también podemos calcular nuestras propias métricas descriptivas de interés. Por ejemplo, vamos a calcular la media, la desviación estándar, la mediana y el rango intercuartílico de las variables numéricas:
+
+```{r}
+mean_mpg = mean(mtcars$mpg)
+sd_mpg = sd(mtcars$mpg)
+
+median_mpg = median(mtcars$mpg)
+iqr_mpg = IQR(mtcars$mpg)
+
+cat("Media de mpg:", mean_mpg, "\n")
+cat("Desviación estándar de mpg:", sd_mpg, "\n")
+cat("Mediana de mpg:", median_mpg, "\n")
+cat("Rango intercuartílico de mpg:", iqr_mpg, "\n")
+```
+
+También podemos obtener los cuantiles de la distribución de las variables numéricas:
+
+```{r}
+quantile(mtcars$mpg)
+quantile(mtcars$mpg, probs = seq(0,1,0.1))
+```
+
+Respecto a las variables categóricas, podemos construir tablas de frecuencia absoluta y relativa de manera manual:
+
+```{r}
+table(mtcars$cyl)
+```
+
+```{r}
+table(mtcars$cyl) / margin.table(table(mtcars$cyl))
+```
+
+Normalmente, suele ser interesante estratificar la estadística descriptiva por grupos de interés. Por ejemplo, vamos a obtener la media de la variable mpg por número de cilindros.
+
+```{r}
+mean_mpg_4cyl = mean(mtcars[mtcars$cyl==4,]$mpg)
+mean_mpg_6cyl = mean(mtcars[mtcars$cyl==6,]$mpg)
+mean_mpg_8cyl = mean(mtcars[mtcars$cyl==8,]$mpg)
+```
+
+Existen funciones que nos permiten realizar estos cálculos agregados de una manera más sencilla
+
+```{r}
+mean_mpg_by_cyl = aggregate(mpg ~ cyl, data = mtcars, FUN = mean)
+mean_mpg_by_cyl
+```
+
+El paquete dplyr del universo tidyverse nos permite generar tablas resumen con las métricas deseadas por grupo. Esta sería la forma de hacerlo:
+
+```{r}
+tabla_resumen_mtcars = mtcars %>%
+  group_by(cyl) %>%
+  summarise(
+    n = n(),
+    mean_mpg = mean(mpg),
+    sd_mpg = sd(mpg),
+    median_mpg = median(mpg),
+    iqr_mpg = IQR(mpg),
+    min_mpg = min(mpg),
+    max_mpg = max(mpg)
+  )
+
+tabla_resumen_mtcars
+```
+
+### Descripción gráfica
+
+Además de la descripción numérica, la estadística descriptiva incluye también la descripción gráfica de las variables. Para ello, utilizamos visualizaciones gráficas adecuadas según el tipo de variable y el objetivo que tengamos.
+
+#### Análisis univariante
+
+El análisis univariante tiene como objetivo describir la distribución de una variable individualmente.
+
+##### Variable cuantitativa continua
+
+En el caso de las variables numéricas continuas, el gráfico más empleado para describirlas son los histogramas.
+
+```{r}
+# Histograma básico utilizando la función hist() del paquete preinstalado graphics
+hist(mtcars$mpg,
+     main = "Histograma de millas por galón",
+     xlab = "Millas por galón (mpg)",
+     ylab = "Frecuencia")
+```
+
+```{r}
+# Histograma más completo utilizando el paquete específico "ggplot2"
+ggplot(mtcars, aes(x = mpg)) +
+  geom_histogram() +
+  labs(title = "Histograma de millas por galón",
+       x = "Millas por galón (mpg)",
+       y = "Frecuencia")
+```
+
+Un aspecto importante es controlar los valores por defecto. En el histograma por ggplot2 se utilizan 30, lo que a todas luces son demasiados bins para representar la distribución de nuestra variable
+
+```{r}
+bins_sturges = 1 + log2(nrow(mtcars))
+
+# Histograma más completo utilizando el paquete específico "ggplot2"
+ggplot(mtcars, aes(x = mpg)) +
+  geom_histogram(bins = 6) +
+  labs(title = "Histograma de millas por galón",
+       x = "Millas por galón (mpg)",
+       y = "Frecuencia")
+```
+
+Otro gráfico muy utilizado para representar la distribución de una variable cuantitativa son los diagramas de cajas, o boxplots
+
+```{r}
+# Boxplot básico
+boxplot(mtcars$mpg,
+        main = "Boxplot de millas por galón",
+        xlab = "Millas por galón",
+        ylab = "Unidades (mpg)")
+```
+
+##### Variable cuantitativa discreta
+
+Para las variables cuantitativas discretas, también se puede utilizar un histograma si queremos mostrar la distribución numérica de la variable
+
+```{r}
+hist(mtcars$carb,
+     main = "Histograma de la variable carb",
+     xlab = "Número de carburadores",
+     ylab = "Frecuencia")
+```
+
+O un gráfico de barras/columnas si queremos comparar los datos
+
+```{r}
+par(mar = c(9, 4, 4, 2))
+barplot(mtcars_ord$carb,
+        names.arg = rownames(mtcars_ord), las = 2,
+        main = "Gráfico de columnas de la variable carb",
+        ylab = "Número de carburadores")
+
+mtcars_ord = mtcars[order(mtcars$carb, decreasing = T),]
+```
+
+
+##### Variables categóricas
+
+```{r}
+barplot(table(mtcars$cyl),
+        main = "Gráfico de columnas de la variable cyl",
+        xlab = "Número de cilindros",
+        ylab = "Frecuencia")
+```
+
+Otro gráfico bastante común para describir variables categóricas es el gráfico de sectores o pastel
+
+```{r}
+pie(table(mtcars$cyl), labels = levels(mtcars$cyl),
+    main = "Gráfico de sectores de la variable cyl",
+    col = brewer.pal(3, name = "Pastel2"))
+```
+
+#### Análisis bivariante
+
+El análisis bivariante tiene como objetivo mostrar la relación entre dos variables.
+
+##### Variable cuantitativa vs. variable cuantitativa
+
+Para mostrar la relación entre dos variables cuantitativas, el gráfico más empleado es el gráfico de dispersión, o scatterplot.
+
+```{r}
+# Scatterplot de 'mpg' vs. 'wt' (peso)
+plot(mtcars$mpg, mtcars$wt,
+     main = "Relación entre Peso (wt) y Millas por Galón (mpg)",
+     xlab = "Peso (1000 lbs)",
+     ylab = "Millas por Galón")
+```
+
+Se puede añadir una línea de regresión par ver la tendencia general de los datos...
+
+```{r}
+plot(mtcars$wt, mtcars$mpg,
+     main = "Relación entre Peso (wt) y Millas por Galón (mpg)",
+     xlab = "Peso (1000 lbs)",
+     ylab = "Millas por Galón")
+# Agregar línea de regresión
+modelo <- lm(mpg ~ wt, data = mtcars)
+abline(modelo)
+summary(modelo)
+# mpg = 37,29 - wt*5,34
+```
+
+##### Variable cuantitativa vs. variable cualitativa
+
+Para mostrar la relación de una variable cuantitativa y una variable cualitativa, una de las opciones más empleadas es utilizar un boxplot
+
+```{r}
+# Boxplot de 'mpg' por 'cyl'
+boxplot(mpg ~ cyl, data = mtcars,
+        main = "Distribución de millas por galón según número de cilindros",
+        xlab = "Número de Cilindros",
+        ylab = "Millas por Galón")
+```
+
+##### Variable cualilativa vs. variable cualilativa
+
+```{r}
+mosaicplot(cyl ~ am, data = mtcars,
+           main = "Relación entre el número de cilindros y el tipo de motor",
+           ylab = "Tipo de motor",
+           xlab = "Número de cilindros",
+           color = brewer.pal(2, name = "Pastel2"))
+```
+
+## 4. Estadística Inferencial
+
+La estadística inferencial es la rama de la estadística que permite extraer conclusiones, hacer predicciones y tomar decisiones sobre una población a partir del análisis de una muestra de datos.
+
+En función del tipo de variables que estemos comparando y de las características de estas optaremos por un tipo u otro de pruebas.
+
+Principalmente, podemos dividir las pruebas en paramétricas y no paramétricas. Las pruebas paramétricas asumen que los datos siguen una distribución específica, normalmente, la distribución normal. Estas pruebas tienen un mayor poder estadístico, pero su aplicación es más limitada. Las pruebas no paramétricas no asumen ninguna distribución específica, por lo que son más flexibles pero tienen menos poder estadístico.
+
+A continuación, veremos diferentes ejemplos tanto de pruebas paramétricas como de no paramétricas. Comenzaremos por comprobar la normalidad de cada una de las variables
+
+### Comprobación de normalidad
+
+Contraste de hipótesis:
+-H0: Los datos siguen una distribución normal.
+-H1: Los datos no siguen una distribución normal.
+
+Si p < 0.05, rechazamos la H0 y por tanto NO podemos asumir normalidad en los datos.
+Si p > 0.05, no podemos rechazar la H0 y por tanto asumimos normalidad en los datos.
+
+Nota: Aunque no podamos asumir normalidad en los datos, si los tamaños muestrales son de al menos 30, podemos utilizar pruebas paramétricas por el Teorema Central del Límite.
+
+```{r}
+shapiro.test(mtcars$mpg)
+shapiro.test(mtcars$disp)
+```
+
+```{r}
+tests_normalidad <- sapply(mtcars, function(x) {
+  
+  if (is.numeric(x)) {
+    test <- shapiro.test(x)
+    return(test$p.value)
+    
+  } else { 
+    
+    return(NA)  # Si no es numérica, devuelve NA
+    
+  }
+})
+
+tests_normalidad
+
+hist(mtcars$mpg)
+```
+
+```{r}
+for (variable_interes in colnames(mtcars)) {
+  
+  if (is.numeric(mtcars[, variable_interes])){
+    
+    tiff(file=paste0(variable_interes,".tiff"))
+    
+    hist(mtcars[, variable_interes], probability = T,
+         main = paste("Histograma de", variable_interes, "con la función de densidad de la distribución normal"), xlab = "Valores", ylab = "Frecuencia")
+
+    x <- seq(min(mtcars[, variable_interes]), max(mtcars[, variable_interes]), length = 100)
+    y <- dnorm(x, mean = mean(mtcars[, variable_interes]), sd = sd(mtcars[, variable_interes]))
+
+    lines(x, y, col = "red", lwd = 2)
+
+    dev.off()
+  }
+
+}
+```
+
+Podemos asumir normalidad en las variables: mpg, drat, wt y qsec
+No podemos asumir normalidad en las variables: disp, hp, gear y carb
+
+### Análisis 1: Comparación de medias entre 2 grupos independientes
+
+En este análisis vamos a comprobar si hay diferencias en la variable "qsec" entre los coches con distintos tipos de motor.
+
+#### Comprobación de la normalidad
+
+Primero, evaluamos la normalidad de las 2 distribuciones con la prueba de Shapiro-Wilk:
+
+```{r}
+by(mtcars$qsec, mtcars$vs, shapiro.test)
+```
+
+Como en los 2 grupos el p-valor es mayor de 0,05, no podemos rechazar la normalidad de los datos.
+
+#### Comprobación de la homogeneidad de varianzas
+
+En segundo lugar, comprobamos la homogeneidad de varianzas con los tests de Bartlett y de Levene. Son 2 tests diferentes para evaluar lo mismo. El test de Bartlett es más sensible a las desviaciones de la normalidad.
+
+Contraste de hipótesis:
+-H0: Las varianzas de los 2 grupos son iguales.
+-H1: Las varianzas de los 2 grupos no son iguales.
+
+Si p-valor < 0,05, rechazamos la homogeneidad de varianzas.
+
+```{r}
+?bartlett.test
+bartlett.test(qsec ~ vs, data = mtcars)
+```
+
+```{r}
+levene_test(formula = qsec ~ vs, data = mtcars)
+```
+
+En ambos casos el p-valor es > 0,05, por lo que asumimos homogeneidad de varianzas.
+
+#### Comparación de medias
+
+Finalmente, usamos la prueba paramétrica t de Student para comparar las medias entre grupos.
+
+Contraste de hipótesis:
+- H0: Las medias de los dos grupos son iguales.
+- H1: Las medias de los dos grupos no son iguales.
+
+Si el p-valor < 0,05, podremos rechazar estadísticamente la H0 y quedarnos con la H1, es decir, decir que hay diferencias significativas entre grupos.
+
+```{r}
+t.test(qsec ~ vs, data = mtcars, var.equal = T)
+
+qsec_vs_0 = mtcars[mtcars$vs == "0", "qsec"]
+qsec_vs_0
+
+qsec_vs_1 = mtcars[mtcars$vs == "1", "qsec"]
+qsec_vs_1
+
+t.test(qsec_vs_0, qsec_vs_1, var.equal = T)
+```
+
+El p-valor obtenido es 1,03e-06, por lo que podemos decir que hay estadísticas significativas en la variable qsec según el tipo de motor.
+
+En general, una opción más segura (aunque con menos potencia estadística) es utilizar siempre el test de Welch (no asumir homogeneidad de varianzas), ya que algunos autores indican que escoger el test en función de los resultados de los tests previos de varianza acaba "sesgando" los resultados
+
+```{r}
+t.test(qsec ~ vs, data = mtcars)
+```
+
+### Análisis 2: Comparación de distribuciones entre 2 grupos independientes 
+
+Ahora vamos a comprobar la existencia de diferencias significativas en la variable drat entre los coches con distinto tipo de motor.
+
+#### Comprobación de la normalidad
+
+Primero, evaluamos la normalidad de las 2 distribuciones con la prueba de Shapiro-Wilk:
+
+```{r}
+by(mtcars$drat, mtcars$vs, shapiro.test)
+table(mtcars$vs)
+```
+
+Como en ALGUNO de los grupos, el p-valor es inferior a 0,05, NO podemos asumir normalidad en los datos. Como además, los tamaños muestrales tampoco son de al menos 30 por grupo, debemos utilizar una alternativa no paramétrica.
+
+#### Comparación de distribuciones/medianas entre grupos
+
+Contraste de hipotesis:
+H0: Las distribuciones de los 2 grupos son iguales.
+H1: Las distribuciones de los 2 grupos no son iguales.
+
+```{r}
+# Prueba de Wilcoxon
+wilcox.test(drat ~ vs, data = mtcars)
+?wilcox.test
+```
+
+Obtenemos un p-valor de 0,01342, por lo que podemos decir que la variable drat presenta diferencias significativas entre los dos tipos de motor.
+
+### Análisis 3: Comparación de medias entre 3 grupos independientes 
+
+A continuación, vamos a realizar un análisis en el que compararemos la media de una variable numérica entre más de dos grupos. En particular, vamos a comprobar si hay diferencias significativas en la variable mpg según el número de cilindros del coche.
+
+#### Comprobación de normalidad
+
+En primer lugar, evaluamos la asunción de normalidad para todos los grupos
+
+```{r}
+by(mtcars$mpg, mtcars$cyl, shapiro.test)
+```
+
+Como el p-valor es superior a 0,05 en todos los casos, asumimos la normalidad de los datos.
+
+#### Comprobación de homogeneidad de varianzas
+
+```{r}
+bartlett.test(mpg ~ cyl, data = mtcars)
+```
+
+El p-valor es inferior a 0,05, por lo que NO PODEMOS asumir la homogeneidad de varianzas; SIN EMBARGO, a efectos del ejercicio, y ante la imposibilidad de encontrar una variable númerica que cumpla tanto las asunciones de normalidad como de homogeneidad de varianzas para la variable cyl, vamos a continuar como si sí que se pudiese asumir homogeneidad de varianzas para mostrar el análisis
+
+#### Comparación de medias
+
+Para comparar las medias de más de 2 grupos, asumiendo normalidad y homogeneidad de varianzas, utilizamos el test ANOVA.
+
+Contraste de hipótesis:
+H0: Las medias de todos los grupos son iguales.
+H1: Al menos una de las medias de los grupos es diferente.
+
+```{r}
+anova = aov(qsec ~ cyl, data = mtcars)
+summary(anova)
+```
+
+Obtenemos un p-valor inferior a 0,05, por lo que rechazamos la hipótesis nula.
+
+Existe una alternativa del test de ANOVA para cuando no podemos asumir homogeneidad de varianzas:
+
+```{r}
+anova_welch = oneway.test(qsec ~ cyl, data = mtcars, var.equal = F)
+anova_welch$p.value
+```
+
+#### Comparaciones post-hoc
+
+En el test de ANOVA hemos obtenido que hay diferencias significativas en al menos uno de los grupos, pero no especifica entre qué grupos se encuentran las diferencias. Para ello, recurrimos a los test post-hoc, el más común es el de Tukey:
+
+```{r}
+?TukeyHSD
+TukeyHSD(anova)
+```
+
+Vemos que hay diferencias significativas entre todos los grupos cuando se comparan 2 a 2.
+
+```{r}
+pairwise.t.test(mtcars$mpg, mtcars$cyl, var.equal = F, p.adjust.method = "bonferroni")
+```
+
+### Análisis 4: Comparación de distribuciones entre 3 grupos independientes
+
+Vamos a evaluar si hay diferencias en la variable disp entre los coches de 4,6 y 8 cilindros.
+
+#### Comprobación de normalidad
+
+En primer lugar, evaluamos la asunción de normalidad para todos los grupos
+
+```{r}
+by(mtcars$disp, mtcars$cyl, shapiro.test)
+```
+
+Como el p-valor es inferior a 0,05 en alguno de los grupos, NO podemos asumir la normalidad de los datos, recurrimos a la alternativa no paramétrica.
+
+#### Comparación de distribuciones
+
+La alternativa no paramétrica al test de ANOVA es el test de Kruskal-Wallis.
+
+Contraste de hipótesis:
+H0: Las distribuciones de todos los grupos son iguales.
+H1: Al menos una de las dsitribuciones de los grupos es diferente.
+
+```{r}
+kruskal.test(disp ~ cyl, data = mtcars)
+```
+
+Como el p-valor es inferior a 0,05, rechazamos la hipótesis nulas.
+
+#### Comparaciones post-hoc
+
+Después de obtener un resultado significativo en el test de Kruskal-Wallis, realizamos pruebas post-hoc para realizar comparaciones entre los pares de grupos y determinar cuáles son diferentes entre sí. El test post-hoc más utilizado es el test de Dunn
+
+```{r}
+dunn_test(disp ~ cyl, data = mtcars, p.adjust.method = "fdr")
+?dunn_test
+```
+Obtenemos diferencias significativas (p.adj < 0.05) para las comparaciones 2 y 3, es decir, entre los coches de 4 y 8 cilindros, y entre los coches de 6 y 8 cilindros. Las diferencias entre los coches de 4 y 6 cilindros no son estadísticamente significativas.
+
+### Análisis 5: Correlación lineal entre dos variables continuas
+
+En los Análisis 5 y 6 vamos a analizar la relación (correlación) entre dos variables númericas. Los dos tipos de correlaciones más utilizadas son la correlación de Pearson y la de Spearman.
+
+La correlación de Pearson mide la relación lineal entre dos variables continuas. Esta prueba asume que las dos variables son normales y que tienen una relación lineal. El coeficiente r de Pearson va de -1 a 1, donde:
+
+r = 1: correlación positiva perfecta.
+r = -1: correlación negativa perfecta.
+r = 0: no hay correlación lineal.
+
+Contraste de hipótesis:
+-H0: No hay correlación lineal entre las dos variables.
+-H1: Hay correlación lineal entre las dos variables.
+
+#### Comprobación de normalidad
+
+```{r}
+shapiro.test(mtcars$mpg)
+shapiro.test(mtcars$wt)
+```
+
+```{r}
+?cor.test
+cor.test(mtcars$mpg, mtcars$wt, method = "pearson")
+```
+
+Obtenemos una correlación lineal significativa (p-valor = 1,294e-10) y bastante alta (coeficiente de correlación = -0,87) entre ambas variables.
+
+### Análisis 6: Correlación no lineal entre dos variables continuas
+
+La correlación de Spearman mide la relación monotónica (no necesariamente lineal) entre dos variables numéricas. Es la alternativa no paramétrica de la correlación de Pearson, ya que no requiere que las variables sigan una distribución normal ni que tengan una relación lineal.
+
+El coeficiente rho de Spearman varía entre -1 y 1, donde:
+
+rho = 1: correlación positiva perfecta
+rho = -1: correlación negativa perfecta
+rho = 0: no hay correlación monotónica.
+
+Contraste de hipótesis:
+-H0: No hay correlación monotónica entre las dos variables.
+-H1: Hay correlación monotónica entre las dos variables.
+
+
+```{r}
+shapiro.test(mtcars$mpg)
+shapiro.test(mtcars$disp)
+```
+
+```{r}
+sp = cor.test(mtcars$hp, mtcars$drat, method = "spearman")
+sp$estimate
+```
+
+Obtenemos una correlación (monotónica) significativa (p-valor = 6,37e-13) y bastante alta (coeficiente de correlación = -0,91) entre ambas variables.
+
+```{r}
+mt_cars_num = select_if(mtcars, is.numeric)
+
+corr_results = matrix(0, nrow = 8, ncol = 8)
+rownames(corr_results) = colnames(mt_cars_num)
+colnames(corr_results) = colnames(mt_cars_num)
+corr_results
+
+for (i in 1:ncol(mt_cars_num)){
+  for (j in i:ncol(mt_cars_num)){
+    
+    spearman_results = cor.test(as.numeric(mt_cars_num[, i]), mt_cars_num[, j])
+    
+    pvalues = c(pvalues, spearman_results$p.value)
+    rhos = c(rhos, spearman_results$estimate)
+    
+    corr_results[j,i] = spearman_results$p.value
+    corr_results[i,j] = spearman_results$estimate
+    
+  }
+}
+
+corr_results
+```
+
+
+### Análisis 7: Asociación entre dos variables categóricas independientes
+
+Finalmente, vamos a ver cómo comprobar la asociación entre dos variables categóricas.
+Las dos pruebas más comunes para evaluar si existe una asociación significativa entre dos variables cualitativas son los tests de Fisher y de Chi-cuadrado.
+
+En principio, utilizaremos el test exacto de Fisher cuando las dos variables a comparar sean binarias (tabla 2x2) y los tamaños muestrales sean pequeños (recuento esperado inferior a 5 en alún caso, por ejemplo). En el caso de que tengamos una tabla de 3x2, pero los tamaños muestrales sean pequeños, utilizaremos una extensión del test de Fisher tradicional (aunque a efectos prácticos se usa la misma función)
+
+Usaremos el test de Chi-cuadrado cuando el tamaño de la muestra es más grande (todos los recuentos esperados son mayores de 5).
+
+Contraste de hipótesis:
+-H0: Las variables son independientes
+-H1: Las variables no son independientes
+
+#### Test de chi-cuadrado para tablas de 2x2
+
+```{r}
+table(mtcars$am, mtcars$vs)
+```
+```{r}
+chisq.test(table(mtcars$am, mtcars$vs))
+```
+
+```{R}
+chisq.test(table(mtcars$am, mtcars$vs), correct = F)
+```
+
+#### Test de Fisher para tabla 2x2
+
+```{r}
+table(mtcars$am, mtcars$vs)
+```
+
+```{R}
+fisher.test(table(mtcars$am, mtcars$vs))
+```
+
+#### Test de Chi-Cuadrado para tablas 3x2
+
+```{r}
+table(mtcars$cyl, mtcars$am)
+```
+
+```{R}
+chisq.test(table(mtcars$cyl, mtcars$am))
+```
+
+Vemos que nos avisa de que la aproximación puede ser incorrecta debido al bajo número de muestras. También vemos que por defecto ya no aplica la corrección de continuidad de Yates.
+
+#### Test de Fisher para tabla 3x2
+
+```{r}
+table(mtcars$cyl, mtcars$am)
+```
+
+```{R}
+fisher.test(table(mtcars$cyl, mtcars$am))
+```
+
+
+### Análisis 8: Regresión lineal simple
+
+La regresión lineal simple es un modelo estadístico que describe la relación lineal entre una variable independiente (predictora) y una variable dependiente (respuesta)
+Ajusta una ecuación del tipo:
+y = m*x + n
+
+Contraste de hipótesis:
+-H0: No hay relación lineal entre las variables analizadas (coef = 0)
+-H1: Hay relación lineal entre las variantes analizadas (coef != 0)
+
+```{r}
+modelo <- lm(mpg ~ wt, data = mtcars)
+summary(modelo)
+```
+
+```{r}
+# Graficar los datos y la recta de regresión
+plot(mtcars$wt, mtcars$mpg, 
+     main = "Regresión Lineal: Consumo  vs Peso",
+     xlab = "Peso del vehículo (1000 lbs)", ylab = "Millas por galón (mpg)",
+     pch = 16, col = "blue")
+# Agregar la línea de regresión
+abline(modelo, col = "red", lwd = 2)
+```
+
+### Análisis 9: Regresión lineal múltiple
+
+La regresión lineal múltiple extiende la regresión lineal simple al incluir múltiples variables independientes para predecir una variable dependiente
+
+Contraste de hipótesis:
+-H0: Ninguna de las variables predictoras tiene un efecto significativo sobre la variable dependiente (todos los coeficientes son 0)
+-H1: Al menos una de las variables predictoras tiene un efecto significativo sobre la variable dependiente (algún coeficiente no es 0.
+
+```{r}
+colnames(mt_cars_num)
+modelo_lm <- lm(mpg ~ disp + hp + drat + wt + qsec + gear + carb, data = mtcars)
+summary(modelo_lm)
+```
+
+```{r}
+plot(modelo_lm$fitted.values, mtcars$mpg, 
+     xlab = "Valores Ajustados", ylab = "Valores Reales",
+     main = "Valores Ajustados vs. Observados")
+abline(0, 1, col = "red", lwd = 2)
+```
+
+### Análisis 10: Comparación de medias entre 2 grupos pareados
+
+Cargamos un dataset con datos pareados
+
+```{r}
+data(sleep)
+str(sleep)
+```
+
+```{r}
+sleep_drug1 = sleep[sleep$group == 1, ]
+sleep_drug1
+sleep_drug2 = sleep[sleep$group == 2, ]
+sleep_drug2
+```
+
+```{r}
+shapiro.test(sleep_drug1$extra)
+shapiro.test(sleep_drug2$extra)
+```
+
+Contraste de hipótesis:
+-H0: La media de las diferencias entre los dos pares es 0 (no hay diferencia entre medias)
+-H1: La media de las diferencias entre los dos pares es diferente de 0 (hay diferencia entre medias)
+
+```{r}
+t.test(extra ~ group, data = sleep, paired = TRUE)
+t.test(sleep_drug1$extra, sleep_drug2$extra, paired = T)
+```
+
+### Análisis 11: Comparación de distribuciones entre 2 grupos pareados
+
+Contraste de hipótesis:
+-H0: No hay diferencias en la distribución de las observaciones pareadas
+-H1: Sí hay diferencias en la distribución de las observaciones pareadas
+
+```{r}
+wilcox.test(extra ~ group, data = sleep, paired = TRUE)
+wilcox.test(sleep_drug1$extra, sleep_drug2$extra, paired = T)
+```
+
+
