@@ -1,0 +1,659 @@
+CAS Number;Chemical Name;SMILES;Species Scientific Name;Species Common Name;Species Sub Phylum;Effect;Organism Lifestage;Exposure Duration Mean (Days);Conc 1 Mean (Standardized);Conc 1 Mean Op (Standardized);Conc 1 Units (Standardized);log_Conc;Es tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0138;;AI mg/L;-1.8601209135987635;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.02;>;AI mg/L;-1.6989700043360187;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0142;;AI mg/L;-1.8477116556169435;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0099;;AI mg/L;-2.00436480540245;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0124;;AI mg/L;-1.9065783148377649;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0132;;AI mg/L;-1.8794260687941502;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0199;;AI mg/L;-1.7011469235902934;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0074;;AI mg/L;-2.1307682802690238;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.04;>;AI mg/L;-1.3979400086720375;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.056;;AI mg/L;-1.2518119729937995;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.029;;AI mg/L;-1.537602002101044;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.026;;AI mg/L;-1.585026652029182;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.078;;AI mg/L;-1.1079053973095196;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.027;;AI mg/L;-1.5686362358410126;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0155;;AI mg/L;-1.8096683018297086;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0185;;AI mg/L;-1.7328282715969863;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0167;;AI mg/L;-1.7772835288524167;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.058;;AI mg/L;-1.2365720064370627;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0246;;AI mg/L;-1.609064892896621;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.032;;AI mg/L;-1.494850021680094;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.019;;AI mg/L;-1.7212463990471711;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0085;;AI mg/L;-2.070581074285707;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.019;;AI mg/L;-1.7212463990471711;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0176;;AI mg/L;-1.75448733218585;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.026;;AI mg/L;-1.585026652029182;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.019;;AI mg/L;-1.7212463990471711;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.032;;AI mg/L;-1.494850021680094;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.045;;AI mg/L;-1.3467874862246563;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.034;;AI mg/L;-1.4685210829577449;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.026;;AI mg/L;-1.585026652029182;Tóxico
+50-29-3;1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.068;;AI mg/L;-1.1674910872937636;Tóxico
+55-18-5;N-Ethyl-N-nitrosoethanamine;CCN(CC)N=O;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;775.0;;AI mg/L;2.88930170250631;No tóxico
+57-55-6;1,2-Propanediol;CC(O)CO;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;62000.0;>;AI mg/L;4.7923916894982534;No tóxico
+57-55-6;1,2-Propanediol;CC(O)CO;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;710.0;;AI mg/L;2.8512583487190755;No tóxico
+57-55-6;1,2-Propanediol;CC(O)CO;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;55770.0;;AI mg/L;4.746400644491561;No tóxico
+57-55-6;1,2-Propanediol;CC(O)CO;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;790.0;;AI mg/L;2.8976270912904414;No tóxico
+57-55-6;1,2-Propanediol;CC(O)CO;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;34060.0;;AI mg/L;4.532244643626583;No tóxico
+62-75-9;N-Methyl-N-nitrosomethanamine;CN(C)N=O;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;940.0;;AI mg/L;2.9731278535996988;No tóxico
+72-54-8;1,1'-(2,2-Dichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;4.4;;AI mg/L;0.6434526764861874;No tóxico
+72-54-8;1,1'-(2,2-Dichloroethylidene)bis[4-chlorobenzene];Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;8.1;;AI mg/L;0.9084850188786497;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;14.0;;AI mg/L;1.146128035678238;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;35.0;;AI mg/L;1.5440680443502757;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;14.0;;AI mg/L;1.146128035678238;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;34.0;;AI mg/L;1.5314789170422551;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.014;;AI mg/L;-1.853871964321762;Tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.0084;;AI mg/L;-2.0757207139381184;Tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;18.1;;AI mg/L;1.2576785748691846;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;21.5;;AI mg/L;1.3324384599156054;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;34.3;;AI mg/L;1.5352941200427705;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;14.3;;AI mg/L;1.1553360374650619;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;32.7;;AI mg/L;1.5145477526602862;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;16.7;;AI mg/L;1.2227164711475833;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;30;4.2;;AI mg/L;0.6232492903979004;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;30;14.8;;AI mg/L;1.1702617153949575;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;30;5.2;;AI mg/L;0.7160033436347992;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;30;3.5;;AI mg/L;0.5440680443502757;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;30;33.5;;AI mg/L;1.5250448070368452;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;30;10.1;;AI mg/L;1.0043213737826426;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;30;8.1;;AI mg/L;0.9084850188786497;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;30;11.1;;AI mg/L;1.0453229787866574;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;30;2.6;;AI mg/L;0.414973347970818;No tóxico
+107-13-1;2-Propenenitrile;C=CC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;30;6.9;;AI mg/L;0.8388490907372553;No tóxico
+109-75-1;3-Butenenitrile;C=CCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+109-75-1;3-Butenenitrile;C=CCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;182.0;;AI mg/L;2.2600713879850747;No tóxico
+109-75-1;3-Butenenitrile;C=CCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;200.0;~;AI mg/L;2.3010299956639813;No tóxico
+109-75-1;3-Butenenitrile;C=CCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;182.0;;AI mg/L;2.2600713879850747;No tóxico
+109-75-1;3-Butenenitrile;C=CCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+109-75-1;3-Butenenitrile;C=CCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;2.4;;AI mg/L;0.38021124171160603;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;NR;4.2;;AI mg/L;0.6232492903979004;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;2.1;;AI mg/L;0.3222192947339193;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;NR;2.0;;AI mg/L;0.3010299956639812;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;2.9;;AI mg/L;0.4623979978989561;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;NR;3.0;;AI mg/L;0.47712125471966244;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;2.66;;AI mg/L;0.424881636631067;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;2.4;;AI mg/L;0.38021124171160603;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.2;;AI mg/L;0.07918124604762482;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;NR;2.4;;AI mg/L;0.38021124171160603;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;4;2.709699076;;AI mg/L;0.43292106324000246;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;10;2.198649376;;AI mg/L;0.34215597687805427;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;NR;2.4;;AI mg/L;0.38021124171160603;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;3.1;;AI mg/L;0.4913616938342727;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.6;;AI mg/L;0.2041199826559248;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;2.58;;AI mg/L;0.41161970596323016;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;NR;3.0;;AI mg/L;0.47712125471966244;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;NR;3.2;>;AI mg/L;0.505149978319906;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;16;3.7;;AI mg/L;0.568201724066995;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;16;5.9;;AI mg/L;0.7708520116421442;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;16;5.9;;AI mg/L;0.7708520116421442;No tóxico
+118-96-7;2-Methyl-1,3,5-trinitrobenzene;Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;NR;1.2;;AI mg/L;0.07918124604762482;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;11.0;;AI mg/L;1.0413926851582251;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;10.0;;AI mg/L;1.0;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;18.0;;AI mg/L;1.255272505103306;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;10.0;>;AI mg/L;1.0;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;;;AI mg/L;;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;4.5;;AI mg/L;0.6532125137753437;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;NR;12.7;;AI mg/L;1.1038037209559568;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;NR;100.0;>;AI mg/L;2.0;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;5.8;;AI mg/L;0.7634279935629372;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;43.0;;AI mg/L;1.6334684555795864;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;6.6;;AI mg/L;0.8195439355418687;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;16.0;;AI mg/L;1.2041199826559248;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;16.0;;AI mg/L;1.2041199826559248;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;5.2;;AI mg/L;0.7160033436347992;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;11.0;;AI mg/L;1.0413926851582251;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;5.8;;AI mg/L;0.7634279935629372;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;100.0;>;AI mg/L;2.0;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;11.0;;AI mg/L;1.0413926851582251;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;3.8;;AI mg/L;0.5797835966168101;No tóxico
+121-82-4;Hexahydro-1,3,5-trinitro-1,3,5-triazine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;18.0;;AI mg/L;1.255272505103306;No tóxico
+132-64-9;Dibenzofuran;c1ccc2c(c1)oc1ccccc12;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.05;;AI mg/L;0.021189299069938092;No tóxico
+132-64-9;Dibenzofuran;c1ccc2c(c1)oc1ccccc12;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;3.02;;AI mg/L;0.48000694295715063;No tóxico
+132-64-9;Dibenzofuran;c1ccc2c(c1)oc1ccccc12;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.85;;AI mg/L;0.26717172840301384;No tóxico
+132-64-9;Dibenzofuran;c1ccc2c(c1)oc1ccccc12;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.14;;AI mg/L;0.05690485133647256;No tóxico
+132-64-9;Dibenzofuran;c1ccc2c(c1)oc1ccccc12;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;3.62;;AI mg/L;0.5587085705331657;No tóxico
+132-64-9;Dibenzofuran;c1ccc2c(c1)oc1ccccc12;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.78;;AI mg/L;0.250420002308894;No tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;10;0.114;;AI mg/L;-0.9430951486635274;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;10;0.181;;AI mg/L;-0.7423214251308154;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;10;0.12;;AI mg/L;-0.9208187539523752;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;10;0.326;;AI mg/L;-0.48678239993206096;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;10;0.117;;AI mg/L;-0.9318141382538383;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;10;0.216;;AI mg/L;-0.6655462488490691;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;10;0.114;;AI mg/L;-0.9430951486635274;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;10;0.196;;AI mg/L;-0.707743928643524;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.125;;AI mg/L;-0.9030899869919435;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;2;0.24;;AI mg/L;-0.619788758288394;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.32;;AI mg/L;-0.494850021680094;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;4;0.273;;AI mg/L;-0.563837352959244;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;4;0.121;;AI mg/L;-0.9172146296835499;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.165;;AI mg/L;-0.7825160557860937;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.131;;AI mg/L;-0.8827287043442357;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;6;0.116;;AI mg/L;-0.9355420107730815;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;6;0.202;;AI mg/L;-0.6946486305533762;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;6;0.187;;AI mg/L;-0.7281583934635011;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.119;;AI mg/L;-0.9244530386074693;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Swim-up;4;0.0991;;AI mg/L;-1.0039263455147247;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.157;;AI mg/L;-0.8041003475907662;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Swim-up;4;0.0816;;AI mg/L;-1.0883098412461387;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.128;;AI mg/L;-0.8927900303521317;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;6;0.113;;AI mg/L;-0.9469215565165803;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Swim-up;4;0.113;;AI mg/L;-0.9469215565165803;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.106;;AI mg/L;-0.9746941347352298;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.121;;AI mg/L;-0.9172146296835499;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;17;0.126;;AI mg/L;-0.8996294548824371;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;10;0.118;;AI mg/L;-0.9281179926938746;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;4;0.202;;AI mg/L;-0.6946486305533762;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;4;0.184;;AI mg/L;-0.7351821769904635;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Swim-up;4;0.108;;AI mg/L;-0.9665762445130504;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.0824;;AI mg/L;-1.0840727883028842;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;4;0.352;;AI mg/L;-0.453457336521869;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.129;;AI mg/L;-0.889410289700751;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;6;0.162;;AI mg/L;-0.790484985457369;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.125;;AI mg/L;-0.9030899869919435;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;4;0.196;;AI mg/L;-0.707743928643524;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.167;>;AI mg/L;-0.7772835288524167;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.191;;AI mg/L;-0.7189666327522725;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;6;0.18;;AI mg/L;-0.744727494896694;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.16;;AI mg/L;-0.7958800173440752;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.12;;AI mg/L;-0.9208187539523752;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.174;;AI mg/L;-0.7594507517174003;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.137;;AI mg/L;-0.8632794328435932;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.152;;AI mg/L;-0.8181564120552275;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.157;;AI mg/L;-0.8041003475907662;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.117;;AI mg/L;-0.9318141382538383;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.124;;AI mg/L;-0.906578314837765;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.133;;AI mg/L;-0.8761483590329142;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.133;;AI mg/L;-0.8761483590329142;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Young;4;0.23;;AI mg/L;-0.638272163982407;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Young;4;0.24;;AI mg/L;-0.619788758288394;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Young;4;0.25;;AI mg/L;-0.6020599913279624;Tóxico
+143-33-9;Sodium cyanide (Na(CN));[C-]#N.[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Swim-up;4;0.122;;AI mg/L;-0.9136401693252518;Tóxico
+151-50-8;Potassium cyanide (K(CN));[C-]#N.[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;;;AI mg/L;;No tóxico
+151-50-8;Potassium cyanide (K(CN));[C-]#N.[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;1;0.248;;AI mg/L;-0.6055483191737837;Tóxico
+151-50-8;Potassium cyanide (K(CN));[C-]#N.[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;1;0.274;;AI mg/L;-0.562249437179612;Tóxico
+2243-27-8;Nonanenitrile;CCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2243-27-8;Nonanenitrile;CCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2243-27-8;Nonanenitrile;CCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;4.91;;AI mg/L;0.6910814921229684;No tóxico
+2243-27-8;Nonanenitrile;CCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2243-27-8;Nonanenitrile;CCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2243-27-8;Nonanenitrile;CCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2243-27-8;Nonanenitrile;CCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;6.9;;AI mg/L;0.8388490907372553;No tóxico
+2243-27-8;Nonanenitrile;CCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2243-27-8;Nonanenitrile;CCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;5.61;;AI mg/L;0.7489628612561614;No tóxico
+2243-27-8;Nonanenitrile;CCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2243-27-8;Nonanenitrile;CCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;5.75;~;AI mg/L;0.7596678446896304;No tóxico
+2243-27-8;Nonanenitrile;CCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2243-27-8;Nonanenitrile;CCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;5.75;~;AI mg/L;0.7596678446896304;No tóxico
+2243-27-8;Nonanenitrile;CCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2243-27-8;Nonanenitrile;CCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2437-25-4;Dodecanenitrile;CCCCCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2437-25-4;Dodecanenitrile;CCCCCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.43;;AI mg/L;-0.36653154442041347;Tóxico
+2437-25-4;Dodecanenitrile;CCCCCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2437-25-4;Dodecanenitrile;CCCCCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2437-25-4;Dodecanenitrile;CCCCCCCCCCCC#N;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;15.0;;AI mg/L;1.1760912590556813;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;25.0;;AI mg/L;1.3979400086720377;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+2691-41-0;Octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine;O=[N+]([O-])N1CN([N+](=O)[O-])CN([N+](=O)[O-])CN([N+](=O)[O-])C1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;32.0;>;AI mg/L;1.505149978319906;No tóxico
+7601-89-0;Sodium perchlorate;[Na+].[O-][Cl+3]([O-])([O-])[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;7;582.6597;;AI mg/L;2.7654149808962645;No tóxico
+7601-89-0;Sodium perchlorate;[Na+].[O-][Cl+3]([O-])([O-])[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;7;614.1983;;AI mg/L;2.7883086100529293;No tóxico
+7601-89-0;Sodium perchlorate;[Na+].[O-][Cl+3]([O-])([O-])[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;7;597.3543;;AI mg/L;2.776231994269112;No tóxico
+7601-89-0;Sodium perchlorate;[Na+].[O-][Cl+3]([O-])([O-])[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;7;582.66;;AI mg/L;2.7654152045058793;No tóxico
+7601-89-0;Sodium perchlorate;[Na+].[O-][Cl+3]([O-])([O-])[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;1655.0;;AI mg/L;3.2187979981117376;No tóxico
+7601-89-0;Sodium perchlorate;[Na+].[O-][Cl+3]([O-])([O-])[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;1128.0;;AI mg/L;3.0523090996473234;No tóxico
+7601-89-0;Sodium perchlorate;[Na+].[O-][Cl+3]([O-])([O-])[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;7;397.0;;AI mg/L;2.598790506763115;No tóxico
+9003-13-8;alpha-Butyl-omega-hydroxyPoly[oxy(methyl-1,2-ethanediyl)];;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not coded;4;50.0;;AI mg/L;1.6989700043360187;No tóxico
+9016-45-9;alpha-(Nonylphenyl)-omega-hydroxypoly(oxy-1,2-ethanediyl);*OCCO.CCCCCCCCCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;4.6;;AI mg/L;0.6627578316815741;No tóxico
+9016-45-9;alpha-(Nonylphenyl)-omega-hydroxypoly(oxy-1,2-ethanediyl);*OCCO.CCCCCCCCCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;2.9;;AI mg/L;0.4623979978989561;No tóxico
+13601-19-9;Tetrasodium hexakis(cyanido-kappaC)ferrate(4-);N#C[Fe-4](C#N)(C#N)(C#N)(C#N)C#N.[Na+].[Na+].[Na+].[Na+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;100.0;>;AI mg/L;2.0;No tóxico
+13746-66-2;(OC-6-11)-Hexakis(cyano-kappac)ferrate(3-) potassium (1:3);[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Fe+3].[K+].[K+].[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;1;1455.0;;AI mg/L;3.162862993321926;No tóxico
+13746-66-2;(OC-6-11)-Hexakis(cyano-kappac)ferrate(3-) potassium (1:3);[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Fe+3].[K+].[K+].[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;1;1060.0;;AI mg/L;3.0253058652647704;No tóxico
+13746-66-2;(OC-6-11)-Hexakis(cyano-kappac)ferrate(3-) potassium (1:3);[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Fe+3].[K+].[K+].[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;1;1345.0;;AI mg/L;3.128722284338427;No tóxico
+13943-58-3;Tetrapotassium hexakis(cyanido-kappaC)ferrate(4-);N#[C-]->[Fe+2](<-[C-]#N)(<-[C-]#N)(<-[C-]#N)(<-[C-]#N)<-[C-]#N.[K+].[K+].[K+].[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;100.0;>;AI mg/L;2.0;No tóxico
+13943-58-3;Tetrapotassium hexakis(cyanido-kappaC)ferrate(4-);N#[C-]->[Fe+2](<-[C-]#N)(<-[C-]#N)(<-[C-]#N)(<-[C-]#N)<-[C-]#N.[K+].[K+].[K+].[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;100.0;>;AI mg/L;2.0;No tóxico
+111988-49-9;[N(Z)]-N-[3-[(6-Chloro-3-pyridinyl)methyl]-2-thiazolidinylidene]cyanamide;N#C/N=C1\SCCN1Cc1ccc(Cl)nc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not coded;4;104.0;>;AI mg/L;2.0170333392987803;No tóxico
+111988-49-9;[N(Z)]-N-[3-[(6-Chloro-3-pyridinyl)methyl]-2-thiazolidinylidene]cyanamide;N#C/N=C1\SCCN1Cc1ccc(Cl)nc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not coded;4;104.0;>;AI mg/L;2.0170333392987803;No tóxico
+119446-68-3;1-[[2-[2-Chloro-4-(4-chlorophenoxyl)phenyl]-4-methyl-1,3-dioxolan-2-yl]methyl]-1H-1,2,4-triazole;CC1COC(Cn2cncn2)(c2ccc(Oc3ccc(Cl)cc3)cc2Cl)O1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not coded;4;1.8;;AI mg/L;0.25527250510330607;No tóxico
+135285-90-4;Octahydro-1,3,4,7,8,10-hexanitro-5,2,6-(iminomethenimino)-1H-imidazo[4,5-b]pyrazine;O=[N+]([O-])N1C2C3N([N+](=O)[O-])C1C1N([N+](=O)[O-])C(C(N1[N+](=O)[O-])N3[N+](=O)[O-])N2[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;7;3.4;;AI mg/L;0.5314789170422551;No tóxico
+135285-90-4;Octahydro-1,3,4,7,8,10-hexanitro-5,2,6-(iminomethenimino)-1H-imidazo[4,5-b]pyrazine;O=[N+]([O-])N1C2C3N([N+](=O)[O-])C1C1N([N+](=O)[O-])C(C(N1[N+](=O)[O-])N3[N+](=O)[O-])N2[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;7;2.0;;AI mg/L;0.3010299956639812;No tóxico
+153719-23-4;3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine;CN1COCN(Cc2cnc(Cl)s2)C1=N[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;2;219.0;;AI mg/L;2.3404441148401185;No tóxico
+153719-23-4;3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine;CN1COCN(Cc2cnc(Cl)s2)C1=N[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;2;239.0;;AI mg/L;2.3783979009481375;No tóxico
+153719-23-4;3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine;CN1COCN(Cc2cnc(Cl)s2)C1=N[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;2;230.0;;AI mg/L;2.361727836017593;No tóxico
+210880-92-5;[C(E)]-N-[(2-Chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitroguanidine;CN/C(=N\[N+](=O)[O-])NCc1cnc(Cl)s1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.5;>;AI mg/L;-0.3010299956639812;Tóxico
+75-89-8;2,2,2-Trifluoroethanol;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;119.0;;AI mg/L;2.0755469613925306;No tóxico
+307-35-7;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonyl fluoride;O=S(=O)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1000.0;>;AI mg/L;3.0;No tóxico
+307-35-7;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonyl fluoride;O=S(=O)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1000.0;>;AI mg/L;3.0;No tóxico
+307-35-7;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonyl fluoride;O=S(=O)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1000.0;>;AI mg/L;3.0;No tóxico
+335-67-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid;O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;280.0;;AI mg/L;2.4471580313422194;No tóxico
+335-67-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid;O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;280.0;;AI mg/L;2.4471580313422194;No tóxico
+335-67-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid;O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;280.0;;AI mg/L;2.4471580313422194;No tóxico
+335-67-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid;O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;280.0;;AI mg/L;2.4471580313422194;No tóxico
+335-67-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid;O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;4;413.2;;AI mg/L;2.6161603128475828;No tóxico
+335-67-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid;O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;440.0;;AI mg/L;2.6434526764861874;No tóxico
+335-67-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid;O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;843.0;;AI mg/L;2.9258275746247424;No tóxico
+335-67-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid;O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;140.0;;AI mg/L;2.146128035678238;No tóxico
+335-67-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid;O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;140.0;;AI mg/L;2.146128035678238;No tóxico
+335-67-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid;O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;140.0;;AI mg/L;2.146128035678238;No tóxico
+335-67-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid;O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;140.0;;AI mg/L;2.146128035678238;No tóxico
+383-63-1;Trifluoroacetic acid, Ethyl ester;CCOC(=O)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;10000.0;;AI mg/L;4.0;No tóxico
+393-39-5;4-Fluoro-2-(trifluoromethyl)aniline;Nc1ccc(F)cc1C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;30.0;~;AI mg/L;1.4771212547196624;No tóxico
+393-39-5;4-Fluoro-2-(trifluoromethyl)aniline;Nc1ccc(F)cc1C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;29.6;;AI mg/L;1.4712917110589385;No tóxico
+393-39-5;4-Fluoro-2-(trifluoromethyl)aniline;Nc1ccc(F)cc1C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;30.0;~;AI mg/L;1.4771212547196624;No tóxico
+393-39-5;4-Fluoro-2-(trifluoromethyl)aniline;Nc1ccc(F)cc1C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;30.0;~;AI mg/L;1.4771212547196624;No tóxico
+393-39-5;4-Fluoro-2-(trifluoromethyl)aniline;Nc1ccc(F)cc1C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;30.0;~;AI mg/L;1.4771212547196624;No tóxico
+653-37-2;Pentafluorobenzaldehyde;O=Cc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.3;;AI mg/L;0.11394335230683679;No tóxico
+653-37-2;Pentafluorobenzaldehyde;O=Cc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+653-37-2;Pentafluorobenzaldehyde;O=Cc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+653-37-2;Pentafluorobenzaldehyde;O=Cc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+653-37-2;Pentafluorobenzaldehyde;O=Cc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.1;;AI mg/L;0.04139268515822508;No tóxico
+653-37-2;Pentafluorobenzaldehyde;O=Cc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;2.4;;AI mg/L;0.38021124171160603;No tóxico
+653-37-2;Pentafluorobenzaldehyde;O=Cc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+653-37-2;Pentafluorobenzaldehyde;O=Cc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+653-37-2;Pentafluorobenzaldehyde;O=Cc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+653-37-2;Pentafluorobenzaldehyde;O=Cc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+653-37-2;Pentafluorobenzaldehyde;O=Cc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+771-60-8;Pentafluoroaniline;Nc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;40.0;~;AI mg/L;1.6020599913279623;No tóxico
+771-60-8;Pentafluoroaniline;Nc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;NR;37.1;;AI mg/L;1.5693739096150459;No tóxico
+771-60-8;Pentafluoroaniline;Nc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+771-60-8;Pentafluoroaniline;Nc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+771-60-8;Pentafluoroaniline;Nc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+771-60-8;Pentafluoroaniline;Nc1c(F)c(F)c(F)c(F)c1F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;37.1;;AI mg/L;1.5693739096150459;No tóxico
+811-97-2;1,1,1,2-Tetrafluoroethane;FCC(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;818.0;>;AI mg/L;2.912753303671323;No tóxico
+920-66-1;1,1,1,3,3,3-Hexafluoro-2-propanol;OC(C(F)(F)F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;244.0;;AI mg/L;2.387389826338729;No tóxico
+2357-47-3;4-Fluoro-3-(trifluoromethyl)aniline;Nc1ccc(F)c(C(F)(F)F)c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;32.5;~;AI mg/L;1.5118833609788744;No tóxico
+2357-47-3;4-Fluoro-3-(trifluoromethyl)aniline;Nc1ccc(F)c(C(F)(F)F)c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2357-47-3;4-Fluoro-3-(trifluoromethyl)aniline;Nc1ccc(F)c(C(F)(F)F)c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;30.1;;AI mg/L;1.4785664955938433;No tóxico
+2357-47-3;4-Fluoro-3-(trifluoromethyl)aniline;Nc1ccc(F)c(C(F)(F)F)c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+2706-90-3;2,2,3,3,4,4,5,5,5-Nonafluoropentanoic acid;O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;31.8;;AI mg/L;1.5024271199844328;No tóxico
+2795-39-3;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt;O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;37.6;;AI mg/L;1.575187844927661;No tóxico
+2795-39-3;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt;O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;51.0;;AI mg/L;1.7075701760979363;No tóxico
+2795-39-3;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt;O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;28.0;>;AI mg/L;1.4471580313422192;No tóxico
+2795-39-3;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt;O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;28.0;>;AI mg/L;1.4471580313422192;No tóxico
+2795-39-3;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt;O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;27.0;;AI mg/L;1.4313637641589874;No tóxico
+2795-39-3;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt;O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;9.5;;AI mg/L;0.9777236052888477;No tóxico
+2795-39-3;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt;O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;28;7.2;;AI mg/L;0.8573324964312685;No tóxico
+3825-26-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid, Ammonium salt (1:1);O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;2470.0;;AI mg/L;3.392696953259666;No tóxico
+3825-26-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid, Ammonium salt (1:1);O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;3330.0;>;AI mg/L;3.5224442335063197;No tóxico
+3825-26-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid, Ammonium salt (1:1);O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;2470.0;;AI mg/L;3.392696953259666;No tóxico
+3825-26-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid, Ammonium salt (1:1);O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;2890.0;;AI mg/L;3.4608978427565478;No tóxico
+3825-26-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid, Ammonium salt (1:1);O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;301.0;;AI mg/L;2.4785664955938436;No tóxico
+3825-26-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid, Ammonium salt (1:1);O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;766.0;;AI mg/L;2.884228769632604;No tóxico
+3825-26-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid, Ammonium salt (1:1);O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;1000.0;>;AI mg/L;3.0;No tóxico
+3825-26-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid, Ammonium salt (1:1);O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;1000.0;>;AI mg/L;3.0;No tóxico
+3825-26-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid, Ammonium salt (1:1);O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;1000.0;>;AI mg/L;3.0;No tóxico
+3825-26-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid, Ammonium salt (1:1);O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;1000.0;>;AI mg/L;3.0;No tóxico
+3825-26-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid, Ammonium salt (1:1);O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;70.0;;AI mg/L;1.845098040014257;No tóxico
+3825-26-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid, Ammonium salt (1:1);O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;754.0;;AI mg/L;2.877371345869774;No tóxico
+3825-26-1;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid, Ammonium salt (1:1);O=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;776.0;;AI mg/L;2.8898617212581885;No tóxico
+4151-50-2;N-Ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-1-octanesulfonamide;CCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;34.0;;AI mg/L;1.5314789170422551;No tóxico
+4151-50-2;N-Ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-1-octanesulfonamide;CCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not coded;4;9.92;>;AI mg/L;0.9965116721541787;No tóxico
+4151-50-2;N-Ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-1-octanesulfonamide;CCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not coded;4;0.189;;AI mg/L;-0.7235381958267558;Tóxico
+16919-19-0;Hexafluorosilicate(2-), Ammonium (1:2);;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;28.7;;AI mg/L;1.4578818967339924;No tóxico
+29081-56-9;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid ammonium salt;O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;100.0;;AI mg/L;2.0;No tóxico
+29081-56-9;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid ammonium salt;O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[NH4+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;85.0;;AI mg/L;1.9294189257142926;No tóxico
+29420-49-3;1,1,2,2,3,3,4,4,4-Nonafluoro-1-butanesulfonic acid potassium salt (1:1);O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;1938.0;;AI mg/L;3.2873537727147464;No tóxico
+29420-49-3;1,1,2,2,3,3,4,4,4-Nonafluoro-1-butanesulfonic acid potassium salt (1:1);O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;1938.0;;AI mg/L;3.2873537727147464;No tóxico
+29420-49-3;1,1,2,2,3,3,4,4,4-Nonafluoro-1-butanesulfonic acid potassium salt (1:1);O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;1999.0;;AI mg/L;3.300812794118117;No tóxico
+29420-49-3;1,1,2,2,3,3,4,4,4-Nonafluoro-1-butanesulfonic acid potassium salt (1:1);O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;2118.0;;AI mg/L;3.325925955771466;No tóxico
+29457-72-5;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid lithium salt;O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[Li+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;36.0;;AI mg/L;1.5563025007672873;No tóxico
+29457-72-5;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid lithium salt;O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[Li+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;56.0;>;AI mg/L;1.7481880270062005;No tóxico
+29457-72-5;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid lithium salt;O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[Li+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;56.0;>;AI mg/L;1.7481880270062005;No tóxico
+29457-72-5;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid lithium salt;O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[Li+];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;19.0;;AI mg/L;1.2787536009528289;No tóxico
+29553-26-2;2-Methyl-3,3,4,4-tetrafluoro-2-butanol;CC(C)(O)C(F)(F)C(F)F;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;582.0;;AI mg/L;2.7649229846498886;No tóxico
+272451-65-7;N2-[1,1-Dimethyl-2-(methylsulfonyl)ethyl]-3-iodo-N1-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-1,2-benzenedicarboxamide;Cc1cc(C(F)(C(F)(F)F)C(F)(F)F)ccc1NC(=O)c1cccc(I)c1C(=O)NC(C)(C)CS(C)(=O)=O;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not coded;4;0.0665;>;AI mg/L;-1.1771783546968955;Tóxico
+83-32-9;Acenaphthene;c1cc2c3c(cccc3c1)CC2;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.6;;AI mg/L;0.2041199826559248;No tóxico
+83-32-9;Acenaphthene;c1cc2c3c(cccc3c1)CC2;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.608;;AI mg/L;-0.21609642072726507;Tóxico
+83-32-9;Acenaphthene;c1cc2c3c(cccc3c1)CC2;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.5;;AI mg/L;0.17609125905568124;No tóxico
+83-32-9;Acenaphthene;c1cc2c3c(cccc3c1)CC2;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.73;;AI mg/L;0.2380461031287954;No tóxico
+83-32-9;Acenaphthene;c1cc2c3c(cccc3c1)CC2;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.9;;AI mg/L;0.2787536009528289;No tóxico
+83-32-9;Acenaphthene;c1cc2c3c(cccc3c1)CC2;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.4;>;AI mg/L;0.146128035678238;No tóxico
+83-32-9;Acenaphthene;c1cc2c3c(cccc3c1)CC2;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.4;>;AI mg/L;0.146128035678238;No tóxico
+83-32-9;Acenaphthene;c1cc2c3c(cccc3c1)CC2;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.4;>;AI mg/L;0.146128035678238;No tóxico
+83-32-9;Acenaphthene;c1cc2c3c(cccc3c1)CC2;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.4;>;AI mg/L;0.146128035678238;No tóxico
+83-32-9;Acenaphthene;c1cc2c3c(cccc3c1)CC2;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;2.8;;AI mg/L;0.4471580313422192;No tóxico
+83-32-9;Acenaphthene;c1cc2c3c(cccc3c1)CC2;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;4;3.1;;AI mg/L;0.4913616938342727;No tóxico
+83-32-9;Acenaphthene;c1cc2c3c(cccc3c1)CC2;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.5;;AI mg/L;0.17609125905568124;No tóxico
+83-32-9;Acenaphthene;c1cc2c3c(cccc3c1)CC2;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;3.7;;AI mg/L;0.568201724066995;No tóxico
+83-32-9;Acenaphthene;c1cc2c3c(cccc3c1)CC2;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.7;;AI mg/L;0.2304489213782739;No tóxico
+84-66-2;1,2-Benzenedicarboxylic acid, 1,2-Diethyl ester;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;16.8;;AI mg/L;1.2253092817258628;No tóxico
+84-66-2;1,2-Benzenedicarboxylic acid, 1,2-Diethyl ester;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;6;15.0;;AI mg/L;1.1760912590556813;No tóxico
+84-66-2;1,2-Benzenedicarboxylic acid, 1,2-Diethyl ester;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;6;24.0;;AI mg/L;1.380211241711606;No tóxico
+84-66-2;1,2-Benzenedicarboxylic acid, 1,2-Diethyl ester;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;6;15.0;;AI mg/L;1.1760912590556813;No tóxico
+84-66-2;1,2-Benzenedicarboxylic acid, 1,2-Diethyl ester;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;6;20.0;;AI mg/L;1.3010299956639813;No tóxico
+84-66-2;1,2-Benzenedicarboxylic acid, 1,2-Diethyl ester;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;6;22.0;;AI mg/L;1.3424226808222062;No tóxico
+84-66-2;1,2-Benzenedicarboxylic acid, 1,2-Diethyl ester;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;31.8;;AI mg/L;1.5024271199844328;No tóxico
+84-66-2;1,2-Benzenedicarboxylic acid, 1,2-Diethyl ester;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;17.0;;AI mg/L;1.2304489213782739;No tóxico
+84-66-2;1,2-Benzenedicarboxylic acid, 1,2-Diethyl ester;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;30.0;;AI mg/L;1.4771212547196624;No tóxico
+84-66-2;1,2-Benzenedicarboxylic acid, 1,2-Diethyl ester;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;17.0;;AI mg/L;1.2304489213782739;No tóxico
+84-66-2;1,2-Benzenedicarboxylic acid, 1,2-Diethyl ester;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;17.0;;AI mg/L;1.2304489213782739;No tóxico
+84-66-2;1,2-Benzenedicarboxylic acid, 1,2-Diethyl ester;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;17.0;;AI mg/L;1.2304489213782739;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.49;;AI mg/L;0.17318626841227402;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.3;;AI mg/L;0.11394335230683679;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.49;;AI mg/L;0.17318626841227402;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.0;~;AI mg/L;0.0;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.0;~;AI mg/L;0.0;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.85;;AI mg/L;-0.07058107428570728;Tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;;;AI mg/L;;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.1;;AI mg/L;0.04139268515822508;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;4;2.02;;AI mg/L;0.3053513694466238;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;6;0.92;;AI mg/L;-0.036212172654444715;Tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;6;1.6;;AI mg/L;0.2041199826559248;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;6;1.1;;AI mg/L;0.04139268515822508;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;6;1.2;;AI mg/L;0.07918124604762482;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;6;0.92;;AI mg/L;-0.036212172654444715;Tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;1.54;;AI mg/L;0.18752072083646307;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.92;;AI mg/L;-0.036212172654444715;Tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.0;;AI mg/L;0.0;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;3.0;;AI mg/L;0.47712125471966244;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;3.0;;AI mg/L;0.47712125471966244;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;3.0;;AI mg/L;0.47712125471966244;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;3.0;;AI mg/L;0.47712125471966244;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.85;;AI mg/L;-0.07058107428570728;Tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;1.1;;AI mg/L;0.04139268515822508;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1.3;;AI mg/L;0.11394335230683679;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;3.95;;AI mg/L;0.5965970956264602;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;4.8;;AI mg/L;0.6812412373755872;No tóxico
+84-74-2;1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester;CCCCOC(=O)c1ccccc1C(=O)OCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;3.3;;AI mg/L;0.5185139398778874;No tóxico
+84-75-3;1,2-Benzenedicarboxylic acid, 1,2-Dihexyl ester;CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.1;>;AI mg/L;-1.0;Tóxico
+84-75-3;1,2-Benzenedicarboxylic acid, 1,2-Dihexyl ester;CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.2;>;AI mg/L;-0.6989700043360187;Tóxico
+84-75-3;1,2-Benzenedicarboxylic acid, 1,2-Dihexyl ester;CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.2;>;AI mg/L;-0.6989700043360187;Tóxico
+84-75-3;1,2-Benzenedicarboxylic acid, 1,2-Dihexyl ester;CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.2;>;AI mg/L;-0.6989700043360187;Tóxico
+84-75-3;1,2-Benzenedicarboxylic acid, 1,2-Dihexyl ester;CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.2;>;AI mg/L;-0.6989700043360187;Tóxico
+84-75-3;1,2-Benzenedicarboxylic acid, 1,2-Dihexyl ester;CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.24;>;AI mg/L;-0.619788758288394;Tóxico
+84-75-3;1,2-Benzenedicarboxylic acid, 1,2-Dihexyl ester;CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.24;>;AI mg/L;-0.619788758288394;Tóxico
+84-75-3;1,2-Benzenedicarboxylic acid, 1,2-Dihexyl ester;CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.24;>;AI mg/L;-0.619788758288394;Tóxico
+84-75-3;1,2-Benzenedicarboxylic acid, 1,2-Dihexyl ester;CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.24;>;AI mg/L;-0.619788758288394;Tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;5.3;;AI mg/L;0.724275869600789;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;2.1;;AI mg/L;0.3222192947339193;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;3.3;;AI mg/L;0.5185139398778874;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;2.1;;AI mg/L;0.3222192947339193;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;2.1;;AI mg/L;0.3222192947339193;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;2.1;;AI mg/L;0.3222192947339193;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.5;;AI mg/L;0.17609125905568124;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.5;;AI mg/L;0.17609125905568124;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.5;;AI mg/L;0.17609125905568124;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.78;>;AI mg/L;-0.10790539730951958;Tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;1.5;;AI mg/L;0.17609125905568124;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.32;;AI mg/L;0.3654879848908996;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.25;;AI mg/L;0.3521825181113625;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.75;;AI mg/L;0.24303804868629444;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.32;;AI mg/L;0.3654879848908996;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.6;>;AI mg/L;0.2041199826559248;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.6;>;AI mg/L;0.2041199826559248;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.6;>;AI mg/L;0.2041199826559248;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.6;>;AI mg/L;0.2041199826559248;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.25;;AI mg/L;0.3521825181113625;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.32;;AI mg/L;0.3654879848908996;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.32;;AI mg/L;0.3654879848908996;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.25;;AI mg/L;0.3521825181113625;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.25;;AI mg/L;0.3521825181113625;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.32;;AI mg/L;0.3654879848908996;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.62;;AI mg/L;0.41830129131974547;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.32;;AI mg/L;0.3654879848908996;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.32;;AI mg/L;0.3654879848908996;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.32;;AI mg/L;0.3654879848908996;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.32;;AI mg/L;0.3654879848908996;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.25;;AI mg/L;0.3521825181113625;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;14;2.32;;AI mg/L;0.3654879848908996;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;5.3;;AI mg/L;0.724275869600789;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;5.3;;AI mg/L;0.724275869600789;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;5.3;;AI mg/L;0.724275869600789;No tóxico
+85-68-7;1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester;CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;10.0;;AI mg/L;1.0;No tóxico
+85-69-8;Butyl 2-ethylhexylester 1,2-benzenedicarboxylic acid;CCCCOC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.15;>;AI mg/L;-0.8239087409443188;Tóxico
+85-69-8;Butyl 2-ethylhexylester 1,2-benzenedicarboxylic acid;CCCCOC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.2;>;AI mg/L;-0.6989700043360187;Tóxico
+85-69-8;Butyl 2-ethylhexylester 1,2-benzenedicarboxylic acid;CCCCOC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.2;>;AI mg/L;-0.6989700043360187;Tóxico
+85-69-8;Butyl 2-ethylhexylester 1,2-benzenedicarboxylic acid;CCCCOC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.2;>;AI mg/L;-0.6989700043360187;Tóxico
+85-69-8;Butyl 2-ethylhexylester 1,2-benzenedicarboxylic acid;CCCCOC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.2;>;AI mg/L;-0.6989700043360187;Tóxico
+85-69-8;Butyl 2-ethylhexylester 1,2-benzenedicarboxylic acid;CCCCOC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.15;>;AI mg/L;-0.8239087409443188;Tóxico
+85-69-8;Butyl 2-ethylhexylester 1,2-benzenedicarboxylic acid;CCCCOC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.15;>;AI mg/L;-0.8239087409443188;Tóxico
+85-69-8;Butyl 2-ethylhexylester 1,2-benzenedicarboxylic acid;CCCCOC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.15;>;AI mg/L;-0.8239087409443188;Tóxico
+85-69-8;Butyl 2-ethylhexylester 1,2-benzenedicarboxylic acid;CCCCOC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.12;>;AI mg/L;-0.9208187539523752;Tóxico
+86-73-7;9H-Fluorene;c1ccc2c(c1)Cc1ccccc1-2;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;100.0;>;AI mg/L;2.0;No tóxico
+91-20-3;Naphthalene;c1ccc2ccccc2c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;7.76;;AI mg/L;0.8898617212581884;No tóxico
+91-20-3;Naphthalene;c1ccc2ccccc2c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;4.9;;AI mg/L;0.6901960800285137;No tóxico
+91-20-3;Naphthalene;c1ccc2ccccc2c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;9.93;;AI mg/L;0.9969492484953811;No tóxico
+91-20-3;Naphthalene;c1ccc2ccccc2c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;6.14;;AI mg/L;0.7881683711411677;No tóxico
+91-20-3;Naphthalene;c1ccc2ccccc2c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;NR;6.14;;AI mg/L;0.7881683711411677;No tóxico
+91-20-3;Naphthalene;c1ccc2ccccc2c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;7.9;;AI mg/L;0.8976270912904415;No tóxico
+91-20-3;Naphthalene;c1ccc2ccccc2c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;NR;1.99;;AI mg/L;0.29885307640970665;No tóxico
+91-20-3;Naphthalene;c1ccc2ccccc2c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;6.35;;AI mg/L;0.8027737252919757;No tóxico
+91-20-3;Naphthalene;c1ccc2ccccc2c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;6.08;;AI mg/L;0.7839035792727349;No tóxico
+91-20-3;Naphthalene;c1ccc2ccccc2c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;6.08;;AI mg/L;0.7839035792727349;No tóxico
+101-55-3;1-Bromo-4-phenoxybenzene;Brc1ccc(Oc2ccccc2)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.95;;AI mg/L;-0.022276394711152253;Tóxico
+101-55-3;1-Bromo-4-phenoxybenzene;Brc1ccc(Oc2ccccc2)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.7;;AI mg/L;-0.1549019599857432;Tóxico
+101-55-3;1-Bromo-4-phenoxybenzene;Brc1ccc(Oc2ccccc2)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.48;;AI mg/L;-0.3187587626244128;Tóxico
+101-55-3;1-Bromo-4-phenoxybenzene;Brc1ccc(Oc2ccccc2)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.67;;AI mg/L;-0.17392519729917355;Tóxico
+101-55-3;1-Bromo-4-phenoxybenzene;Brc1ccc(Oc2ccccc2)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.75;;AI mg/L;-0.12493873660829995;Tóxico
+101-55-3;1-Bromo-4-phenoxybenzene;Brc1ccc(Oc2ccccc2)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.56;;AI mg/L;-0.25181197299379954;Tóxico
+101-55-3;1-Bromo-4-phenoxybenzene;Brc1ccc(Oc2ccccc2)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.33;;AI mg/L;-0.4814860601221125;Tóxico
+101-55-3;1-Bromo-4-phenoxybenzene;Brc1ccc(Oc2ccccc2)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.31;;AI mg/L;-0.5086383061657274;Tóxico
+101-55-3;1-Bromo-4-phenoxybenzene;Brc1ccc(Oc2ccccc2)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.92;;AI mg/L;-0.036212172654444715;Tóxico
+101-55-3;1-Bromo-4-phenoxybenzene;Brc1ccc(Oc2ccccc2)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.41;;AI mg/L;-0.38721614328026455;Tóxico
+101-55-3;1-Bromo-4-phenoxybenzene;Brc1ccc(Oc2ccccc2)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.66;;AI mg/L;-0.1804560644581313;Tóxico
+117-81-7;1,2-Benzenedicarboxylic acid, 1,2-Bis(2-ethylhexyl)ester;CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.327;>;AI mg/L;-0.4854522473397139;Tóxico
+117-81-7;1,2-Benzenedicarboxylic acid, 1,2-Bis(2-ethylhexyl)ester;CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;32;71.5;;AI mg/L;1.8543060418010806;No tóxico
+117-81-7;1,2-Benzenedicarboxylic acid, 1,2-Bis(2-ethylhexyl)ester;CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;32;74.8;;AI mg/L;1.8739015978644613;No tóxico
+117-81-7;1,2-Benzenedicarboxylic acid, 1,2-Bis(2-ethylhexyl)ester;CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;32;68.0;;AI mg/L;1.8325089127062364;No tóxico
+117-81-7;1,2-Benzenedicarboxylic acid, 1,2-Bis(2-ethylhexyl)ester;CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.67;>;AI mg/L;-0.17392519729917355;Tóxico
+117-81-7;1,2-Benzenedicarboxylic acid, 1,2-Bis(2-ethylhexyl)ester;CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.67;>;AI mg/L;-0.17392519729917355;Tóxico
+117-81-7;1,2-Benzenedicarboxylic acid, 1,2-Bis(2-ethylhexyl)ester;CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.67;>;AI mg/L;-0.17392519729917355;Tóxico
+117-81-7;1,2-Benzenedicarboxylic acid, 1,2-Bis(2-ethylhexyl)ester;CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.67;>;AI mg/L;-0.17392519729917355;Tóxico
+117-81-7;1,2-Benzenedicarboxylic acid, 1,2-Bis(2-ethylhexyl)ester;CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;1106.2;;AI mg/L;3.043833654133147;No tóxico
+117-81-7;1,2-Benzenedicarboxylic acid, 1,2-Bis(2-ethylhexyl)ester;CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.16;>;AI mg/L;-0.7958800173440752;Tóxico
+117-81-7;1,2-Benzenedicarboxylic acid, 1,2-Bis(2-ethylhexyl)ester;CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fingerling;NR;1.0;>;AI mg/L;0.0;No tóxico
+117-81-7;1,2-Benzenedicarboxylic acid, 1,2-Bis(2-ethylhexyl)ester;CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.24;>;AI mg/L;-0.619788758288394;Tóxico
+117-81-7;1,2-Benzenedicarboxylic acid, 1,2-Bis(2-ethylhexyl)ester;CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.24;>;AI mg/L;-0.619788758288394;Tóxico
+117-81-7;1,2-Benzenedicarboxylic acid, 1,2-Bis(2-ethylhexyl)ester;CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.24;>;AI mg/L;-0.619788758288394;Tóxico
+117-81-7;1,2-Benzenedicarboxylic acid, 1,2-Bis(2-ethylhexyl)ester;CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.24;>;AI mg/L;-0.619788758288394;Tóxico
+117-84-0;1,2-Benzenedicarboxylic acid, 1,2-dioctyl ester;CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.045;>;AI mg/L;-1.3467874862246563;Tóxico
+119-06-2;1,2-Benzenedicarboxylic acid, Ditridecyl ester;CCCCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.14;>;AI mg/L;-0.8538719643217619;Tóxico
+119-06-2;1,2-Benzenedicarboxylic acid, Ditridecyl ester;CCCCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.26;>;AI mg/L;-0.585026652029182;Tóxico
+119-06-2;1,2-Benzenedicarboxylic acid, Ditridecyl ester;CCCCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.14;>;AI mg/L;-0.8538719643217619;Tóxico
+119-06-2;1,2-Benzenedicarboxylic acid, Ditridecyl ester;CCCCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.14;>;AI mg/L;-0.8538719643217619;Tóxico
+119-06-2;1,2-Benzenedicarboxylic acid, Ditridecyl ester;CCCCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.14;>;AI mg/L;-0.8538719643217619;Tóxico
+119-06-2;1,2-Benzenedicarboxylic acid, Ditridecyl ester;CCCCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.26;>;AI mg/L;-0.585026652029182;Tóxico
+119-06-2;1,2-Benzenedicarboxylic acid, Ditridecyl ester;CCCCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.26;>;AI mg/L;-0.585026652029182;Tóxico
+119-06-2;1,2-Benzenedicarboxylic acid, Ditridecyl ester;CCCCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.26;>;AI mg/L;-0.585026652029182;Tóxico
+119-06-2;1,2-Benzenedicarboxylic acid, Ditridecyl ester;CCCCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.12;>;AI mg/L;-0.9208187539523752;Tóxico
+120-12-7;Anthracene;c1ccc2cc3ccccc3cc2c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.36;;AI mg/L;-0.44369749923271273;Tóxico
+129-00-0;Pyrene;c1cc2ccc3cccc4ccc(c1)c2c34;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.2;;AI mg/L;-0.6989700043360187;Tóxico
+129-00-0;Pyrene;c1cc2ccc3cccc4ccc(c1)c2c34;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.22;;AI mg/L;-0.6575773191777937;Tóxico
+131-11-3;1,2-Benzenedicarboxylic acid, 1,2-Dimethyl ester;COC(=O)c1ccccc1C(=O)OC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;120.0;;AI mg/L;2.0791812460476247;No tóxico
+131-11-3;1,2-Benzenedicarboxylic acid, 1,2-Dimethyl ester;COC(=O)c1ccccc1C(=O)OC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;120.0;;AI mg/L;2.0791812460476247;No tóxico
+131-11-3;1,2-Benzenedicarboxylic acid, 1,2-Dimethyl ester;COC(=O)c1ccccc1C(=O)OC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;170.0;;AI mg/L;2.230448921378274;No tóxico
+131-11-3;1,2-Benzenedicarboxylic acid, 1,2-Dimethyl ester;COC(=O)c1ccccc1C(=O)OC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;120.0;;AI mg/L;2.0791812460476247;No tóxico
+131-11-3;1,2-Benzenedicarboxylic acid, 1,2-Dimethyl ester;COC(=O)c1ccccc1C(=O)OC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;6;64.0;;AI mg/L;1.806179973983887;No tóxico
+131-11-3;1,2-Benzenedicarboxylic acid, 1,2-Dimethyl ester;COC(=O)c1ccccc1C(=O)OC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;6;54.0;;AI mg/L;1.7323937598229686;No tóxico
+131-11-3;1,2-Benzenedicarboxylic acid, 1,2-Dimethyl ester;COC(=O)c1ccccc1C(=O)OC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;6;42.0;;AI mg/L;1.6232492903979006;No tóxico
+131-11-3;1,2-Benzenedicarboxylic acid, 1,2-Dimethyl ester;COC(=O)c1ccccc1C(=O)OC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;6;38.0;;AI mg/L;1.5797835966168101;No tóxico
+131-11-3;1,2-Benzenedicarboxylic acid, 1,2-Dimethyl ester;COC(=O)c1ccccc1C(=O)OC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;6;38.0;;AI mg/L;1.5797835966168101;No tóxico
+131-11-3;1,2-Benzenedicarboxylic acid, 1,2-Dimethyl ester;COC(=O)c1ccccc1C(=O)OC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;39.0;;AI mg/L;1.591064607026499;No tóxico
+131-11-3;1,2-Benzenedicarboxylic acid, 1,2-Dimethyl ester;COC(=O)c1ccccc1C(=O)OC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;121.0;;AI mg/L;2.0827853703164503;No tóxico
+131-11-3;1,2-Benzenedicarboxylic acid, 1,2-Dimethyl ester;COC(=O)c1ccccc1C(=O)OC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;121.0;;AI mg/L;2.0827853703164503;No tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.098;>;AI mg/L;-1.0087739243075051;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;5.5;>;AI mg/L;0.7403626894942439;No tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.066;>;AI mg/L;-1.1804560644581312;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;4.2;>;AI mg/L;0.6232492903979004;No tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0122;;AI mg/L;-1.9136401693252518;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.017;>;AI mg/L;-1.7695510786217261;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.212;>;AI mg/L;-0.6736641390712486;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.212;>;AI mg/L;-0.6736641390712486;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.095;;AI mg/L;-1.0222763947111522;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.00683;;AI mg/L;-2.1655792963184672;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.095;;AI mg/L;-1.0222763947111522;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.5;;AI mg/L;-0.3010299956639812;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.1;;AI mg/L;-1.0;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.2;;AI mg/L;-0.6989700043360187;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0071;;AI mg/L;-2.1487416512809245;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;NR;0.00683;;AI mg/L;-2.1655792963184672;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;5.5;>;AI mg/L;0.7403626894942439;No tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;4.2;>;AI mg/L;0.6232492903979004;No tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;5.5;>;AI mg/L;0.7403626894942439;No tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;4.2;>;AI mg/L;0.6232492903979004;No tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.066;>;AI mg/L;-1.1804560644581312;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.098;>;AI mg/L;-1.0087739243075051;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.098;>;AI mg/L;-1.0087739243075051;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.098;>;AI mg/L;-1.0087739243075051;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;4.2;>;AI mg/L;0.6232492903979004;No tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.066;>;AI mg/L;-1.1804560644581312;Tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;5.5;>;AI mg/L;0.7403626894942439;No tóxico
+206-44-0;Fluoranthene;c1ccc2c(c1)-c1cccc3cccc-2c13;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.066;>;AI mg/L;-1.1804560644581312;Tóxico
+2051-60-7;2-Chlorobiphenyl;Clc1ccccc1-c1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.82;;AI mg/L;-0.08618614761628333;Tóxico
+2051-60-7;2-Chlorobiphenyl;Clc1ccccc1-c1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;4.0;;AI mg/L;0.6020599913279624;No tóxico
+2051-60-7;2-Chlorobiphenyl;Clc1ccccc1-c1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.84;;AI mg/L;-0.07572071393811836;Tóxico
+2051-60-7;2-Chlorobiphenyl;Clc1ccccc1-c1ccccc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;2.1;;AI mg/L;0.3222192947339193;No tóxico
+2051-61-8;3-Chloro-1,1'-biphenyl;Clc1cccc(-c2ccccc2)c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;7.8;;AI mg/L;0.8920946026904804;No tóxico
+2437-79-8;2,2',4,4'-Tetrachloro-1,1-biphenyl;Clc1ccc(-c2ccc(Cl)cc2Cl)c(Cl)c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.029;;AI mg/L;-1.537602002101044;Tóxico
+2437-79-8;2,2',4,4'-Tetrachloro-1,1-biphenyl;Clc1ccc(-c2ccc(Cl)cc2Cl)c(Cl)c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.097;;AI mg/L;-1.0132282657337552;Tóxico
+3648-20-2;1,2-Benzenedicarboxylic acid, 1,2-diundecyl ester;CCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.96;>;AI mg/L;-0.017728766960431602;Tóxico
+3648-20-2;1,2-Benzenedicarboxylic acid, 1,2-diundecyl ester;CCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.96;>;AI mg/L;-0.017728766960431602;Tóxico
+3648-20-2;1,2-Benzenedicarboxylic acid, 1,2-diundecyl ester;CCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.96;>;AI mg/L;-0.017728766960431602;Tóxico
+3648-20-2;1,2-Benzenedicarboxylic acid, 1,2-diundecyl ester;CCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.96;>;AI mg/L;-0.017728766960431602;Tóxico
+3648-20-2;1,2-Benzenedicarboxylic acid, 1,2-diundecyl ester;CCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;1.3;>;AI mg/L;0.11394335230683679;No tóxico
+3648-20-2;1,2-Benzenedicarboxylic acid, 1,2-diundecyl ester;CCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.74;>;AI mg/L;-0.13076828026902382;Tóxico
+3648-20-2;1,2-Benzenedicarboxylic acid, 1,2-diundecyl ester;CCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.3;>;AI mg/L;0.11394335230683679;No tóxico
+3648-20-2;1,2-Benzenedicarboxylic acid, 1,2-diundecyl ester;CCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.3;>;AI mg/L;0.11394335230683679;No tóxico
+3648-20-2;1,2-Benzenedicarboxylic acid, 1,2-diundecyl ester;CCCCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.3;>;AI mg/L;0.11394335230683679;No tóxico
+5292-45-5;Dimethyl nitroterephthalate;COC(=O)c1ccc(C(=O)OC)c([N+](=O)[O-])c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;6.52;;AI mg/L;0.8142475957319202;No tóxico
+7012-37-5;2,4,4'-Trichloro-1,1'-biphenyl;Clc1ccc(-c2ccc(Cl)cc2Cl)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;NR;0.16;>;AI mg/L;-0.7958800173440752;Tóxico
+11096-82-5;PCB 1260;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;NR;0.0033;;AI mg/L;-2.4814860601221125;Tóxico
+11097-69-1;PCB 1254;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;New, newly or recent hatch;NR;0.0077;;AI mg/L;-2.113509274827518;Tóxico
+11097-69-1;PCB 1254;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.033;>;AI mg/L;-1.4814860601221125;Tóxico
+12672-29-6;PCB 1248;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;NR;0.0047;;AI mg/L;-2.3279021420642825;Tóxico
+18259-05-7;2,3,4,5,6-Pentachloro-1,1'-biphenyl;Clc1c(Cl)c(Cl)c(-c2ccccc2)c(Cl)c1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;NR;0.008;>;AI mg/L;-2.0969100130080562;Tóxico
+26761-40-0;1,2-Benzenedicarboxylic acid, 1,2-Diisodecyl ester;*C.*C.CCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.66;>;AI mg/L;-0.1804560644581313;Tóxico
+26761-40-0;1,2-Benzenedicarboxylic acid, 1,2-Diisodecyl ester;*C.*C.CCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.47;>;AI mg/L;-0.3279021420642826;Tóxico
+26761-40-0;1,2-Benzenedicarboxylic acid, 1,2-Diisodecyl ester;*C.*C.CCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;1.0;>;AI mg/L;0.0;No tóxico
+26761-40-0;1,2-Benzenedicarboxylic acid, 1,2-Diisodecyl ester;*C.*C.CCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.0;>;AI mg/L;0.0;No tóxico
+26761-40-0;1,2-Benzenedicarboxylic acid, 1,2-Diisodecyl ester;*C.*C.CCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.0;>;AI mg/L;0.0;No tóxico
+26761-40-0;1,2-Benzenedicarboxylic acid, 1,2-Diisodecyl ester;*C.*C.CCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;1.0;>;AI mg/L;0.0;No tóxico
+26761-40-0;1,2-Benzenedicarboxylic acid, 1,2-Diisodecyl ester;*C.*C.CCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.66;>;AI mg/L;-0.1804560644581313;Tóxico
+26761-40-0;1,2-Benzenedicarboxylic acid, 1,2-Diisodecyl ester;*C.*C.CCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.66;>;AI mg/L;-0.1804560644581313;Tóxico
+26761-40-0;1,2-Benzenedicarboxylic acid, 1,2-Diisodecyl ester;*C.*C.CCCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.66;>;AI mg/L;-0.1804560644581313;Tóxico
+27554-26-3;1,2-Benzenedicarboxylic acid, 1,2-Diisooctyl ester;*C.*C.CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.14;>;AI mg/L;-0.8538719643217619;Tóxico
+27554-26-3;1,2-Benzenedicarboxylic acid, 1,2-Diisooctyl ester;*C.*C.CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.29;>;AI mg/L;-0.5376020021010439;Tóxico
+27554-26-3;1,2-Benzenedicarboxylic acid, 1,2-Diisooctyl ester;*C.*C.CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.29;>;AI mg/L;-0.5376020021010439;Tóxico
+27554-26-3;1,2-Benzenedicarboxylic acid, 1,2-Diisooctyl ester;*C.*C.CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.29;>;AI mg/L;-0.5376020021010439;Tóxico
+27554-26-3;1,2-Benzenedicarboxylic acid, 1,2-Diisooctyl ester;*C.*C.CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.19;>;AI mg/L;-0.721246399047171;Tóxico
+27554-26-3;1,2-Benzenedicarboxylic acid, 1,2-Diisooctyl ester;*C.*C.CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.19;>;AI mg/L;-0.721246399047171;Tóxico
+27554-26-3;1,2-Benzenedicarboxylic acid, 1,2-Diisooctyl ester;*C.*C.CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.19;>;AI mg/L;-0.721246399047171;Tóxico
+27554-26-3;1,2-Benzenedicarboxylic acid, 1,2-Diisooctyl ester;*C.*C.CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.19;>;AI mg/L;-0.721246399047171;Tóxico
+27554-26-3;1,2-Benzenedicarboxylic acid, 1,2-Diisooctyl ester;*C.*C.CCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.29;>;AI mg/L;-0.5376020021010439;Tóxico
+28553-12-0;1,2-Benzenedicarboxylic acid, 1,2-Diisononyl ester;*C.*C.CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.14;>;AI mg/L;-0.8538719643217619;Tóxico
+28553-12-0;1,2-Benzenedicarboxylic acid, 1,2-Diisononyl ester;*C.*C.CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.14;>;AI mg/L;-0.8538719643217619;Tóxico
+28553-12-0;1,2-Benzenedicarboxylic acid, 1,2-Diisononyl ester;*C.*C.CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.14;>;AI mg/L;-0.8538719643217619;Tóxico
+28553-12-0;1,2-Benzenedicarboxylic acid, 1,2-Diisononyl ester;*C.*C.CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.19;>;AI mg/L;-0.721246399047171;Tóxico
+28553-12-0;1,2-Benzenedicarboxylic acid, 1,2-Diisononyl ester;*C.*C.CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.19;>;AI mg/L;-0.721246399047171;Tóxico
+28553-12-0;1,2-Benzenedicarboxylic acid, 1,2-Diisononyl ester;*C.*C.CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.19;>;AI mg/L;-0.721246399047171;Tóxico
+28553-12-0;1,2-Benzenedicarboxylic acid, 1,2-Diisononyl ester;*C.*C.CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.1;>;AI mg/L;-1.0;Tóxico
+28553-12-0;1,2-Benzenedicarboxylic acid, 1,2-Diisononyl ester;*C.*C.CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;0.19;>;AI mg/L;-0.721246399047171;Tóxico
+28553-12-0;1,2-Benzenedicarboxylic acid, 1,2-Diisononyl ester;*C.*C.CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;4;0.14;>;AI mg/L;-0.8538719643217619;Tóxico
+32598-13-3;3,3',4,4'-Tetrachloro-1,1'-biphenyl;Clc1ccc(-c2ccc(Cl)c(Cl)c2)cc1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;NR;0.002;>;AI mg/L;-2.6989700043360187;Tóxico
+35065-27-1;2,2',4,4',5,5'-Hexachloro-1,1'-biphenyl;Clc1cc(Cl)c(-c2cc(Cl)c(Cl)cc2Cl)cc1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;NR;0.0013;>;AI mg/L;-2.886056647693163;Tóxico
+35693-99-3;2,2',5,5'-Tetrachloro-1,1'-biphenyl;Clc1ccc(Cl)c(-c2cc(Cl)ccc2Cl)c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;NR;0.03;>;AI mg/L;-1.5228787452803376;Tóxico
+35694-08-7;2,2',3,3',4,4',5,5'-Octachloro-1,1'-biphenyl;Clc1cc(-c2cc(Cl)c(Cl)c(Cl)c2Cl)c(Cl)c(Cl)c1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;NR;0.0002;>;AI mg/L;-3.6989700043360187;Tóxico
+37680-65-2;2,2',5-Trichloro-1,1'-biphenyl;Clc1ccc(Cl)c(-c2ccccc2Cl)c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;NR;0.0338;;AI mg/L;-1.4710832997223453;Tóxico
+37680-73-2;2,2',4,5,5'-Pentachloro-1,1'-biphenyl;Clc1ccc(Cl)c(-c2cc(Cl)c(Cl)cc2Cl)c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;NR;0.01;>;AI mg/L;-2.0;Tóxico
+38380-07-3;2,2',3,3',4,4'-Hexachloro-1,1'-biphenyl;Clc1ccc(-c2ccc(Cl)c(Cl)c2Cl)c(Cl)c1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;NR;0.0006;>;AI mg/L;-3.2218487496163566;Tóxico
+52663-71-5;2,2',3,3',4,4',6-Heptachloro-1,1'-biphenyl;Clc1ccc(-c2c(Cl)cc(Cl)c(Cl)c2Cl)c(Cl)c1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;NR;0.002;>;AI mg/L;-2.6989700043360187;Tóxico
+53469-21-9;PCB 1242;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;New, newly or recent hatch;NR;0.015;;AI mg/L;-1.8239087409443189;Tóxico
+53469-21-9;PCB 1242;;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.234;>;AI mg/L;-0.6307841425898572;Tóxico
+50-02-2;11beta,16alpha-9-Fluoro-11,17,21-Trihydroxy-16-methyl-pregna-1,4-diene-3,20-dione;C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;28;0.254;;AI mg/L;-0.595166283380062;Tóxico
+50-06-6;5-Ethyl-5-phenyl-2,4,6(1H,3H,5H)-pyrimidinetrione;CCC1(c2ccccc2)C(=O)NC(=O)NC1=O;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;484.0;;AI mg/L;2.6848453616444123;No tóxico
+52-53-9;alpha-[3-[[2-(3,4-Dimethoxyphenyl)ethyl]methylamino]propyl]-3,4-dimethoxy-alpha-(1-methylethyl)benzeneacetonitrile;COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;28;0.6;>;AI mg/L;-0.2218487496163564;Tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;;;AI mg/L;;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;3.0;;AI mg/L;0.47712125471966244;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;5.5;;AI mg/L;0.7403626894942439;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;NR;18.0;>;AI mg/L;1.255272505103306;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;5.3;;AI mg/L;0.724275869600789;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;4;3.58;;AI mg/L;0.5538830266438743;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;4.1;;AI mg/L;0.6127838567197355;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;5.4;;AI mg/L;0.7323937598229685;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;3.4;;AI mg/L;0.5314789170422551;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;2.1;;AI mg/L;0.3222192947339193;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;10.0;>;AI mg/L;1.0;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;4.8;;AI mg/L;0.6812412373755872;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;3.4;;AI mg/L;0.5314789170422551;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;NR;1.2;;AI mg/L;0.07918124604762482;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;NR;18.0;>;AI mg/L;1.255272505103306;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;;;AI mg/L;;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;4.1;;AI mg/L;0.6127838567197355;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;2.5;;AI mg/L;0.3979400086720376;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;2.1;;AI mg/L;0.3222192947339193;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;6.3;;AI mg/L;0.7993405494535817;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;NR;18.0;>;AI mg/L;1.255272505103306;No tóxico
+55-63-0;1,2,3-Propanetriol, 1,2,3-Trinitrate;O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-];Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;6.8;;AI mg/L;0.8325089127062363;No tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.087;;AI mg/L;-1.0604807473813815;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;NR;0.112;;AI mg/L;-0.9507819773298184;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.067;;AI mg/L;-1.1739251972991736;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.077;;AI mg/L;-1.1135092748275182;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.1;>;AI mg/L;-1.0;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.086;;AI mg/L;-1.0655015487564323;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.107;;AI mg/L;-0.9706162223147904;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.104;;AI mg/L;-0.9829666607012196;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.101;;AI mg/L;-0.9956786262173574;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0438;;AI mg/L;-1.3585258894959005;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0438;;AI mg/L;-1.3585258894959005;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0438;;AI mg/L;-1.3585258894959005;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.1;>;AI mg/L;-1.0;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0756;;AI mg/L;-1.1214782044987934;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.0625;;AI mg/L;-1.2041199826559248;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.07;;AI mg/L;-1.154901959985743;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.056;;AI mg/L;-1.2518119729937995;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.087;;AI mg/L;-1.0604807473813815;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.056;;AI mg/L;-1.2518119729937995;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.062;;AI mg/L;-1.207608310501746;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.07;;AI mg/L;-1.154901959985743;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;0.072;;AI mg/L;-1.1426675035687315;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;0.13;;AI mg/L;-0.8860566476931632;Tóxico
+58-89-9;(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane;Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Fry;NR;0.111;;AI mg/L;-0.9546770212133425;Tóxico
+68-22-4;(17alpha)-17-Hydroxy-19-norpregn-4-en-20-yn-3-one;C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@@]21C;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;28;0.0148;>;AI mg/L;-1.8297382846050425;Tóxico
+103-90-2;N-(4-Hydroxyphenyl)acetamide;CC(=O)Nc1ccc(O)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;NR;814.0;;AI mg/L;2.910624404889201;No tóxico
+103-90-2;N-(4-Hydroxyphenyl)acetamide;CC(=O)Nc1ccc(O)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;NR;814.0;;AI mg/L;2.910624404889201;No tóxico
+147-24-0;2-(Diphenylmethoxy)-N,N-dimethylethanamine, Hydrochloride (1:1);CN(C)CCOC(c1ccccc1)c1ccccc1.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;2;0.05928;;AI mg/L;-1.2270918050287283;Tóxico
+147-24-0;2-(Diphenylmethoxy)-N,N-dimethylethanamine, Hydrochloride (1:1);CN(C)CCOC(c1ccccc1)c1ccccc1.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;2;0.00209;;AI mg/L;-2.679853713888946;Tóxico
+298-46-4;5H-Dibenz[b,f]azepine-5-carboxamide;NC(=O)N1c2ccccc2C=Cc2ccccc21;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;28;0.862;>;AI mg/L;-0.06449273417528721;Tóxico
+318-98-9;1-[(1-Methylethyl)amino]-3-(1-naphthalenyloxy)-2-propanol hydrochloride (1:1);CC(C)NCC(O)COc1cccc2ccccc12.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;2;1.09;;AI mg/L;0.037426497940623665;No tóxico
+318-98-9;1-[(1-Methylethyl)amino]-3-(1-naphthalenyloxy)-2-propanol hydrochloride (1:1);CC(C)NCC(O)COc1cccc2ccccc12.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;2;1.33;;AI mg/L;0.12385164096708581;No tóxico
+1951-25-3;(2-Butyl-3-benzofuranyl)[4-[2-(diethylamino)ethoxy]-3,5-diiodophenyl]methanone;CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCCN(CC)CC)c(I)c1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;28;0.526;;AI mg/L;-0.27901425584626094;Tóxico
+5786-21-0;8-Chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo[b,e][1,4]diazepine;CN1CCN(C2=Nc3cc(Cl)ccc3Nc3ccccc32)CC1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;28;0.0308;>;AI mg/L;-1.5114492834995557;Tóxico
+15687-27-1;alpha-Methyl-4-(2-methylpropyl)benzeneacetic acid;CC(C)Cc1ccc(C(C)C(=O)O)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;28;0.68;>;AI mg/L;-0.16749108729376366;Tóxico
+49562-28-9;2-[4-(4-Chlorobenzoyl)phenoxy]-2-methylpropanoic acid, 1-Methylethyl ester;CC(C)OC(=O)C(C)(C)Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Egg;28;0.169;>;AI mg/L;-0.7721132953863264;Tóxico
+54739-18-3;(1E)-5-Methoxy-1-[4-(trifluoromethyl)phenyl]-1-pentanone O-(2-aminoethyl)oxime;COCCCC/C(=N\OCCN)c1ccc(C(F)(F)F)cc1;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;4;0.603;;AI mg/L;-0.2196826878598487;Tóxico
+56296-78-7;N-Methyl-gamma-[4-(trifluoromethyl)phenoxy]benzenepropanamine, Hydrochloride (1:1);CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;4;0.164;;AI mg/L;-0.7851561519523022;Tóxico
+56296-78-7;N-Methyl-gamma-[4-(trifluoromethyl)phenoxy]benzenepropanamine, Hydrochloride (1:1);CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;2;0.995881536;;AI mg/L;-0.001792319529482742;Tóxico
+56296-78-7;N-Methyl-gamma-[4-(trifluoromethyl)phenoxy]benzenepropanamine, Hydrochloride (1:1);CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;2;0.767658684;;AI mg/L;-0.11483183283807492;Tóxico
+56296-78-7;N-Methyl-gamma-[4-(trifluoromethyl)phenoxy]benzenepropanamine, Hydrochloride (1:1);CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;2;0.198;;AI mg/L;-0.7033348097384688;Tóxico
+79559-97-0;(1S,4S)-4-(3,4-Dichlorophenyl)-1,2,3,4-tetrahydro-N-methyl-1-naphthalenamine hydrochloride (1:1);CN[C@H]1CC[C@@H](c2ccc(Cl)c(Cl)c2)c2ccccc21.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;2;;;AI mg/L;;No tóxico
+79559-97-0;(1S,4S)-4-(3,4-Dichlorophenyl)-1,2,3,4-tetrahydro-N-methyl-1-naphthalenamine hydrochloride (1:1);CN[C@H]1CC[C@@H](c2ccc(Cl)c(Cl)c2)c2ccccc21.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;2;;;AI mg/L;;No tóxico
+79559-97-0;(1S,4S)-4-(3,4-Dichlorophenyl)-1,2,3,4-tetrahydro-N-methyl-1-naphthalenamine hydrochloride (1:1);CN[C@H]1CC[C@@H](c2ccc(Cl)c(Cl)c2)c2ccccc21.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;2;;;AI mg/L;;No tóxico
+79559-97-0;(1S,4S)-4-(3,4-Dichlorophenyl)-1,2,3,4-tetrahydro-N-methyl-1-naphthalenamine hydrochloride (1:1);CN[C@H]1CC[C@@H](c2ccc(Cl)c(Cl)c2)c2ccccc21.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;2;;;AI mg/L;;No tóxico
+79559-97-0;(1S,4S)-4-(3,4-Dichlorophenyl)-1,2,3,4-tetrahydro-N-methyl-1-naphthalenamine hydrochloride (1:1);CN[C@H]1CC[C@@H](c2ccc(Cl)c(Cl)c2)c2ccccc21.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;2;;;AI mg/L;;No tóxico
+79559-97-0;(1S,4S)-4-(3,4-Dichlorophenyl)-1,2,3,4-tetrahydro-N-methyl-1-naphthalenamine hydrochloride (1:1);CN[C@H]1CC[C@@H](c2ccc(Cl)c(Cl)c2)c2ccccc21.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;2;;;AI mg/L;;No tóxico
+79559-97-0;(1S,4S)-4-(3,4-Dichlorophenyl)-1,2,3,4-tetrahydro-N-methyl-1-naphthalenamine hydrochloride (1:1);CN[C@H]1CC[C@@H](c2ccc(Cl)c(Cl)c2)c2ccccc21.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;2;;;AI mg/L;;No tóxico
+79559-97-0;(1S,4S)-4-(3,4-Dichlorophenyl)-1,2,3,4-tetrahydro-N-methyl-1-naphthalenamine hydrochloride (1:1);CN[C@H]1CC[C@@H](c2ccc(Cl)c(Cl)c2)c2ccccc21.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;2;;;AI mg/L;;No tóxico
+79559-97-0;(1S,4S)-4-(3,4-Dichlorophenyl)-1,2,3,4-tetrahydro-N-methyl-1-naphthalenamine hydrochloride (1:1);CN[C@H]1CC[C@@H](c2ccc(Cl)c(Cl)c2)c2ccccc21.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Not reported;2;;;AI mg/L;;No tóxico
+79617-96-2;(1S,4S)-4-(3,4-Dichlorphenyl)-1,2,3,4-tetrahydro-N-methyl-1-naphthalenamine;CN[C@H]1CC[C@@H](c2ccc(Cl)c(Cl)c2)c2ccccc21;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Larva;4;0.143;;AI mg/L;-0.8446639625349383;Tóxico
+114247-06-2;(gammaS)-N-Methyl-gamma-[4-(trifluoromethyl)phenoxy]benzenepropanamine hydrochloride (1:1);CNCC[C@H](Oc1ccc(C(F)(F)F)cc1)c1ccccc1.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;2;0.216;;AI mg/L;-0.6655462488490691;Tóxico
+114247-09-5;(gammaR)-N-Methyl-gamma-[4-(trifluoromethyl)phenoxy]benzenepropanamine hydrochloride (1:1);CNCC[C@@H](Oc1ccc(C(F)(F)F)cc1)c1ccccc1.Cl;Pimephales promelas;Fathead Minnow;Vertebrata;Mortality;Juvenile;2;0.212;;AI mg/L;-0.6736641390712486;Tóxico
