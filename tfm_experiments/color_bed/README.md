@@ -1,4 +1,4 @@
-# Experiment in generating a .colot.bed
+# Experiment in generating a .color.bed
 - color_bed.py was coped from: https://github.com/alexpan00/SQANTI_colors/  
 
 - ./data was taken sample files were taken from https://github.com/ConesaLab/SQANTI3/tree/master/example/SQANTI3_QC_output  
