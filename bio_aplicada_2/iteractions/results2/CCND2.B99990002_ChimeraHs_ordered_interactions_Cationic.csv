@@ -1,0 +1,9 @@
+;ligand;protein;interaction;0;ordered_residues
+270;ARG36.A;GLU35.A;Cationic;True;ARG36.A-GLU35.A-Cationic
+508;ARG56.A;ASP85.A;Cationic;True;ARG56.A-ASP85.A-Cationic
+1287;LYS111.A;GLU140.A;Cationic;True;GLU140.A-LYS111.A-Cationic
+1960;LYS166.A;ASP24.A;Cationic;True;ASP24.A-LYS166.A-Cationic
+2048;LYS173.A;GLU218.A;Cationic;True;GLU218.A-LYS173.A-Cationic
+2102;ARG178.A;GLU161.A;Cationic;True;ARG178.A-GLU161.A-Cationic
+2902;LYS244.A;ASP241.A;Cationic;True;ASP241.A-LYS244.A-Cationic
+3121;ARG266.A;ASP267.A;Cationic;True;ARG266.A-ASP267.A-Cationic

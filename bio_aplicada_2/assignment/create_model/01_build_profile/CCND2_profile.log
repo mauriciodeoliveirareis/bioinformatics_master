@@ -1,0 +1,704 @@
+
+                         MODELLER 10.6, 2024/10/17, r12888
+
+     PROTEIN STRUCTURE MODELLING BY SATISFACTION OF SPATIAL RESTRAINTS
+
+
+                     Copyright(c) 1989-2024 Andrej Sali
+                            All Rights Reserved
+
+                             Written by A. Sali
+                               with help from
+              B. Webb, M.S. Madhusudhan, M-Y. Shen, G.Q. Dong,
+          M.A. Marti-Renom, N. Eswar, F. Alber, M. Topf, B. Oliva,
+             A. Fiser, R. Sanchez, B. Yerkovich, A. Badretdinov,
+                     F. Melo, J.P. Overington, E. Feyfant
+                 University of California, San Francisco, USA
+                    Rockefeller University, New York, USA
+                      Harvard University, Cambridge, USA
+                   Imperial Cancer Research Fund, London, UK
+              Birkbeck College, University of London, London, UK
+
+
+Kind, OS, HostName, Kernel, Processor: 4, Darwin Mauricios-MacBook-Air.local 24.5.0 arm64
+Date and time of compilation         : 2024/10/17 13:37:50
+MODELLER executable type             : mac12arm64-gnu
+Job starting time (YY/MM/DD HH:MM:SS): 2025/05/24 15:52:22
+
+openf___224_> Open           $(LIB)/restyp.lib
+openf___224_> Open           ${MODINSTALL10v6}/modlib/resgrp.lib
+rdresgr_266_> Number of residue groups:        2
+openf___224_> Open           ${MODINSTALL10v6}/modlib/sstruc.lib
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       191566     187.076     0.183
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       192094     187.592     0.183
+openf___224_> Open           ${MODINSTALL10v6}/modlib/resdih.lib
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       240694     235.053     0.230
+rdrdih__263_> Number of dihedral angle types         :        9
+              Maximal number of dihedral angle optima:        3
+              Dihedral angle names                   :  Alph Phi Psi Omeg chi1 chi2 chi3 chi4 chi5
+openf___224_> Open           ${MODINSTALL10v6}/modlib/radii.lib
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       253994     248.041     0.242
+openf___224_> Open           ${MODINSTALL10v6}/modlib/af_mnchdef.lib
+rdwilmo_274_> Mainchain residue conformation classes:  APBLE
+openf___224_> Open           ${MODINSTALL10v6}/modlib/mnch.lib
+rdclass_257_> Number of classes:        5
+openf___224_> Open           ${MODINSTALL10v6}/modlib/mnch1.lib
+openf___224_> Open           ${MODINSTALL10v6}/modlib/mnch2.lib
+openf___224_> Open           ${MODINSTALL10v6}/modlib/mnch3.lib
+openf___224_> Open           ${MODINSTALL10v6}/modlib/xs4.mat
+rdrrwgh_268_> Number of residue types:       21
+[+] Building profile for CCND2
+openf___224_> Open           pdb_95.pir
+readlinef__W> File: pdb_95.pir, Line: 7084
+              Modeller will only read the first 4096 characters of this line.
+
+readlinef__W> File: pdb_95.pir, Line: 7105
+              Modeller will only read the first 4096 characters of this line.
+
+readlinef__W> File: pdb_95.pir, Line: 9456
+              Modeller will only read the first 4096 characters of this line.
+
+readlinef__W> File: pdb_95.pir, Line: 11794
+              Modeller will only read the first 4096 characters of this line.
+
+readlinef__W> File: pdb_95.pir, Line: 32903
+              Modeller will only read the first 4096 characters of this line.
+
+readlinef__W> File: pdb_95.pir, Line: 36925
+              No more warnings will be printed for truncated lines in this file.
+
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:       571564     558.168     0.545
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:      4772715    4660.854     4.552
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:      4774957    4663.044     4.554
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:      4776407    4664.460     4.555
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:      4779307    4667.292     4.558
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:      4785107    4672.956     4.563
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:     20638706   20154.986    19.683
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:     20650306   20166.314    19.694
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:     20673506   20188.971    19.716
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:     20719906   20234.283    19.760
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:     20812706   20324.908    19.849
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:     28739506   28065.924    27.408
+
+SEQ_DATABASE_FILE         : pdb_95.pir
+SEQ_DATABASE_FORMAT       : PIR
+CHAINS_LIST               : ALL
+CLEAN_SEQUENCES           :            T
+MINMAX_DB_SEQ_LEN         :            1       40000
+Number of sequences       :        79268
+Number of residues        :     20470869
+Length of longest sequence:         3725
+
+
+SEQ_DATABASE_FILE         : pdb95.bin
+SEQ_DATABASE_FORMAT       : BINARY
+SEARCH_CHAINS_LIST        : ALL
+Number of sequences       :        79268
+Number of residues        :     20470869
+Length of longest sequence:         3725
+
+
+SEQ_DATABASE_FILE         : pdb95.bin
+SEQ_DATABASE_FORMAT       : BINARY
+CHAINS_LIST               : ALL
+CLEAN_SEQUENCES           :            T
+MINMAX_DB_SEQ_LEN         :            0      999999
+Number of sequences       :        79268
+Number of residues        :     20470869
+Length of longest sequence:         3725
+
+openf___224_> Open           ../CCND2/CCND2.ali
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:       573884     560.434     0.547
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:       575334     561.850     0.549
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:       578234     564.682     0.551
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:       584034     570.346     0.557
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       585186     571.471     0.558
+
+Read the alignment from file       : ../CCND2/CCND2.ali
+
+Total number of alignment positions:   289
+
+  #  Code        #_Res #_Segm PDB_code    Name
+-------------------------------------------------------------------------------
+  1      CCND2     289      1       CCND2
+
+Dynamically allocated memory at     amaxprofile [B,KiB,MiB]:       586675     572.925     0.559
+openf___224_> Open           ${LIB}/blosum62.sim.mat
+rdrrwgh_268_> Number of residue types:       21
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:       913752     892.336     0.871
+profile_iteration_> processing sequence:       1    289      1     0.0000000     0.0000000     0.0000000     1
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:       916690     895.205     0.874
+profile_iteration_> processing sequence:    7928    289      1     0.7900000     0.0000996     0.0000004  7928
+profile_iteration_> processing sequence:   15855    289      1     1.5400000     0.0000971     0.0000004 10295
+profile_iteration_> processing sequence:   23782    289      1     2.3000000     0.0000967     0.0000004 10340
+profile_iteration_> processing sequence:   31709    289      1     3.0699999     0.0000968     0.0000004 10329
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:       918252     896.730     0.876
+profile_iteration_> processing sequence:   39636    289      1     3.8399999     0.0000969     0.0000004 10322
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:       919628     898.074     0.877
+profile_iteration_> processing sequence:   47563    289      1     4.5999999     0.0000967     0.0000004 10340
+profile_iteration_> processing sequence:   55490    289      1     5.3699999     0.0000968     0.0000004 10333
+profile_iteration_> processing sequence:   63417    289      1     6.1500001     0.0000970     0.0000004 10312
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:       920293     898.724     0.878
+profile_iteration_> processing sequence:   71344    289      1     6.9200001     0.0000970     0.0000004 10310
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:       924921     903.243     0.882
+ AVERAGE RESIDUAL STANDARD ERROR:    33.5283585
+ AVERAGE RESIDUAL STANDARD DEVIATION:    238.831970
+profile_660_> Quality of the fit between observed/expected score distributions.
+              [Iteration, Chi2, nbins, KS-Stat, nscores ] =        1,        0.0224,      121,        0.0084,    79268
+
+HISTOGRAM OF Z-SCORES:
+
+Z:         1  -3.95000   0.00000   0.00000
+Z:         1  -3.85000   0.00000   0.00000
+Z:         1  -3.75000   0.00000   0.00000
+Z:         1  -3.65000   0.00000   0.00000
+Z:         1  -3.55000   0.00000   0.00000
+Z:         1  -3.45000   0.00000   0.00000
+Z:         1  -3.35000   0.00000   0.00000
+Z:         1  -3.25000   0.00000   0.00000
+Z:         1  -3.15000   0.00013   0.00000
+Z:         1  -3.05000   0.00000   0.00000
+Z:         1  -2.95000   0.00000   0.00000
+Z:         1  -2.85000   0.00000   0.00000
+Z:         1  -2.75000   0.00000   0.00000
+Z:         1  -2.65000   0.00000   0.00000
+Z:         1  -2.55000   0.00038   0.00001
+Z:         1  -2.45000   0.00013   0.00004
+Z:         1  -2.35000   0.00013   0.00016
+Z:         1  -2.25000   0.00202   0.00055
+Z:         1  -2.15000   0.00303   0.00163
+Z:         1  -2.05000   0.00593   0.00416
+Z:         1  -1.95000   0.01198   0.00933
+Z:         1  -1.85000   0.02498   0.01872
+Z:         1  -1.75000   0.04138   0.03400
+Z:         1  -1.65000   0.06093   0.05658
+Z:         1  -1.55000   0.08263   0.08721
+Z:         1  -1.45000   0.12779   0.12565
+Z:         1  -1.35000   0.15895   0.17059
+Z:         1  -1.25000   0.21585   0.21981
+Z:         1  -1.15000   0.25344   0.27052
+Z:         1  -1.05000   0.36042   0.31973
+Z:         1  -0.95000   0.33494   0.36469
+Z:         1  -0.85000   0.38994   0.40316
+Z:         1  -0.75000   0.42274   0.43360
+Z:         1  -0.65000   0.48784   0.45519
+Z:         1  -0.55000   0.45580   0.46779
+Z:         1  -0.45000   0.44192   0.47182
+Z:         1  -0.35000   0.44684   0.46811
+Z:         1  -0.25000   0.45870   0.45775
+Z:         1  -0.15000   0.47674   0.44196
+Z:         1  -0.05000   0.39638   0.42194
+Z:         1   0.05000   0.39940   0.39889
+Z:         1   0.15000   0.34554   0.37383
+Z:         1   0.25000   0.35084   0.34769
+Z:         1   0.35000   0.32737   0.32121
+Z:         1   0.45000   0.31110   0.29500
+Z:         1   0.55000   0.26770   0.26953
+Z:         1   0.65000   0.25105   0.24513
+Z:         1   0.75000   0.21080   0.22205
+Z:         1   0.85000   0.20588   0.20043
+Z:         1   0.95000   0.17447   0.18036
+Z:         1   1.05000   0.16350   0.16185
+Z:         1   1.15000   0.14836   0.14489
+Z:         1   1.25000   0.13801   0.12944
+Z:         1   1.35000   0.12060   0.11542
+Z:         1   1.45000   0.10547   0.10275
+Z:         1   1.55000   0.09525   0.09133
+Z:         1   1.65000   0.08364   0.08109
+Z:         1   1.75000   0.07494   0.07191
+Z:         1   1.85000   0.06472   0.06371
+Z:         1   1.95000   0.05513   0.05639
+Z:         1   2.05000   0.05273   0.04988
+Z:         1   2.15000   0.04756   0.04409
+Z:         1   2.25000   0.03810   0.03895
+Z:         1   2.35000   0.03507   0.03439
+Z:         1   2.45000   0.03179   0.03035
+Z:         1   2.55000   0.02523   0.02678
+Z:         1   2.65000   0.02447   0.02361
+Z:         1   2.75000   0.02031   0.02082
+Z:         1   2.85000   0.02018   0.01835
+Z:         1   2.95000   0.01905   0.01617
+Z:         1   3.05000   0.01337   0.01424
+Z:         1   3.15000   0.01350   0.01255
+Z:         1   3.25000   0.00883   0.01105
+Z:         1   3.35000   0.01123   0.00973
+Z:         1   3.45000   0.01047   0.00857
+Z:         1   3.55000   0.00908   0.00754
+Z:         1   3.65000   0.00606   0.00664
+Z:         1   3.75000   0.00606   0.00584
+Z:         1   3.85000   0.00505   0.00514
+Z:         1   3.95000   0.00643   0.00453
+Z:         1   4.05000   0.00454   0.00398
+Z:         1   4.15000   0.00542   0.00350
+Z:         1   4.25000   0.00227   0.00308
+Z:         1   4.35000   0.00328   0.00271
+Z:         1   4.45000   0.00164   0.00239
+Z:         1   4.55000   0.00240   0.00210
+Z:         1   4.65000   0.00189   0.00185
+Z:         1   4.75000   0.00202   0.00163
+Z:         1   4.85000   0.00126   0.00143
+Z:         1   4.95000   0.00088   0.00126
+Z:         1   5.05000   0.00265   0.00111
+Z:         1   5.15000   0.00151   0.00097
+Z:         1   5.25000   0.00126   0.00086
+Z:         1   5.35000   0.00063   0.00075
+Z:         1   5.45000   0.00038   0.00066
+Z:         1   5.55000   0.00076   0.00058
+Z:         1   5.65000   0.00050   0.00051
+Z:         1   5.75000   0.00038   0.00045
+Z:         1   5.85000   0.00038   0.00040
+Z:         1   5.95000   0.00013   0.00035
+Z:         1   6.05000   0.00063   0.00031
+Z:         1   6.15000   0.00000   0.00027
+Z:         1   6.25000   0.00013   0.00024
+Z:         1   6.35000   0.00000   0.00021
+Z:         1   6.45000   0.00038   0.00018
+Z:         1   6.55000   0.00013   0.00016
+Z:         1   6.65000   0.00000   0.00014
+Z:         1   6.75000   0.00013   0.00013
+Z:         1   6.85000   0.00025   0.00011
+Z:         1   6.95000   0.00013   0.00010
+Z:         1   7.05000   0.00000   0.00009
+Z:         1   7.15000   0.00000   0.00007
+Z:         1   7.25000   0.00000   0.00007
+Z:         1   7.35000   0.00025   0.00006
+Z:         1   7.45000   0.00013   0.00005
+Z:         1   7.55000   0.00013   0.00004
+Z:         1   7.65000   0.00013   0.00004
+Z:         1   7.75000   0.00000   0.00003
+Z:         1   7.85000   0.00013   0.00003
+Z:         1   7.95000   0.00000   0.00003
+Z:         1   8.05000   0.00013   0.00002
+
+HITS FOUND IN ITERATION:     1
+
+
+Dynamically allocated memory at     amaxprofile [B,KiB,MiB]:      1173121    1145.626     1.119
+> 4eojB                      1     430   11750     257     289   31.30     0.0           2   229    30   271    11   240
+> 4eojD                      1     432   11750     256     289   31.30     0.0           3   229    30   271    11   240
+> 5efqB                      1    1328    4500     242     289   23.60    0.66E-02       4   162    56   221    30   207
+> 6gu2B                      1    4855    8850     265     289   26.06     0.0           5   188    30   223    12   199
+> 3qhwB                      1    5583   11800     261     289   31.88     0.0           6   228    30   270    15   243
+> 7kjsB                      1    5705   10100     262     289   29.95     0.0           7   177    24   207     8   194
+> 1w98B                      1   11819   10000     270     289   29.84     0.0           8   177    24   207    12   202
+> 2w96A                      1   11850   40950     249     289   64.66     0.0           9   249     4   264     1   249
+> 2w9fA                      1   11867   40650     237     289   65.82     0.0          10   237    24   260     1   237
+> 3ddqD                      1   18534   11750     269     289   31.30     0.0          11   229    30   271    16   245
+> 1kxuA                      1   35677    5350     276     289   26.47    0.78E-04      12   150    63   221    54   223
+> 1f5qB                      1   39809    7400     247     289   27.03    0.12E-08      13   183    17   202     6   190
+> 2i53A                      1   46949    4500     254     289   23.60    0.69E-02      14   162    56   221    37   214
+> 2f2cA                      1   51861   12250     244     289   30.58     0.0          15   238    11   259     1   242
+> 3g33B                      1   54511   42100     229     289   68.86     0.0          16   228    23   257     2   229
+> 1g3nC                      1   54521   15300     233     289   35.14     0.0          17   222    21   250     1   222
+> 1bu2A                      1   56399   11450     229     289   28.96     0.0          18   218    25   250     1   221
+> 7sj3B                      1   60544   43000     242     289   68.20     0.0          19   239    13   258     4   242
+> 2b9rA                      1   67818    8800     254     289   26.32     0.0          20   171    49   223    25   195
+> 4bcmD                      1   77313   11100     236     289   34.74     0.0          21   212    30   271    11   223
+
+profile_iteration__> Weight Matrix           [sec]:     0.000000
+profile_iteration__> Score Collection        [sec]:     7.730000
+profile_iteration__> Score Collection/Seq    [sec]:     0.000098
+profile_iteration__> DP Steps per sec    [ali/sec]: 10361.830078
+profile_iteration__> Statistics              [sec]:     0.040000
+profile_iteration__> Add to profile          [sec]:     0.010000
+profile_iteration__> Overall performance    [/seq]:     0.000098
+profile_iteration__> Overall performance [seq/sec]: 10175.609375
+profile_iteration_> processing sequence:       1    289     21     0.0000000     0.0000000     0.0000000     1
+profile_iteration_> processing sequence:    7928    289     21     0.7800000     0.0000984     0.0000004  7928
+profile_iteration_> processing sequence:   15855    289     21     1.5400000     0.0000971     0.0000004 10295
+profile_iteration_> processing sequence:   23782    289     21     2.3000000     0.0000967     0.0000004 10340
+profile_iteration_> processing sequence:   31709    289     21     3.0599999     0.0000965     0.0000004 10362
+profile_iteration_> processing sequence:   39636    289     21     3.8399999     0.0000969     0.0000004 10322
+profile_iteration_> processing sequence:   47563    289     21     4.5900002     0.0000965     0.0000004 10362
+profile_iteration_> processing sequence:   55490    289     21     5.3699999     0.0000968     0.0000004 10333
+profile_iteration_> processing sequence:   63417    289     21     6.1399999     0.0000968     0.0000004 10329
+profile_iteration_> processing sequence:   71344    289     21     6.9099998     0.0000969     0.0000004 10325
+ AVERAGE RESIDUAL STANDARD ERROR:    32.0630531
+ AVERAGE RESIDUAL STANDARD DEVIATION:    251.794418
+profile_660_> Quality of the fit between observed/expected score distributions.
+              [Iteration, Chi2, nbins, KS-Stat, nscores ] =        2,        0.0269,      121,        0.0096,    79268
+
+HISTOGRAM OF Z-SCORES:
+
+Z:         2  -3.95000   0.00000   0.00000
+Z:         2  -3.85000   0.00000   0.00000
+Z:         2  -3.75000   0.00000   0.00000
+Z:         2  -3.65000   0.00013   0.00000
+Z:         2  -3.55000   0.00000   0.00000
+Z:         2  -3.45000   0.00000   0.00000
+Z:         2  -3.35000   0.00000   0.00000
+Z:         2  -3.25000   0.00000   0.00000
+Z:         2  -3.15000   0.00000   0.00000
+Z:         2  -3.05000   0.00000   0.00000
+Z:         2  -2.95000   0.00000   0.00000
+Z:         2  -2.85000   0.00000   0.00000
+Z:         2  -2.75000   0.00000   0.00000
+Z:         2  -2.65000   0.00000   0.00000
+Z:         2  -2.55000   0.00025   0.00001
+Z:         2  -2.45000   0.00000   0.00004
+Z:         2  -2.35000   0.00038   0.00016
+Z:         2  -2.25000   0.00164   0.00055
+Z:         2  -2.15000   0.00202   0.00163
+Z:         2  -2.05000   0.00517   0.00416
+Z:         2  -1.95000   0.00971   0.00933
+Z:         2  -1.85000   0.02069   0.01872
+Z:         2  -1.75000   0.03330   0.03400
+Z:         2  -1.65000   0.06686   0.05658
+Z:         2  -1.55000   0.08238   0.08721
+Z:         2  -1.45000   0.12893   0.12565
+Z:         2  -1.35000   0.22922   0.17059
+Z:         2  -1.25000   0.22531   0.21981
+Z:         2  -1.15000   0.25963   0.27052
+Z:         2  -1.05000   0.31576   0.31973
+Z:         2  -0.95000   0.35500   0.36469
+Z:         2  -0.85000   0.38830   0.40316
+Z:         2  -0.75000   0.41568   0.43360
+Z:         2  -0.65000   0.42287   0.45519
+Z:         2  -0.55000   0.46008   0.46779
+Z:         2  -0.45000   0.45088   0.47182
+Z:         2  -0.35000   0.44217   0.46811
+Z:         2  -0.25000   0.44810   0.45775
+Z:         2  -0.15000   0.49339   0.44196
+Z:         2  -0.05000   0.43246   0.42194
+Z:         2   0.05000   0.38401   0.39889
+Z:         2   0.15000   0.36093   0.37383
+Z:         2   0.25000   0.34566   0.34769
+Z:         2   0.35000   0.31072   0.32121
+Z:         2   0.45000   0.28687   0.29500
+Z:         2   0.55000   0.25168   0.26953
+Z:         2   0.65000   0.23906   0.24513
+Z:         2   0.75000   0.21673   0.22205
+Z:         2   0.85000   0.20248   0.20043
+Z:         2   0.95000   0.18646   0.18036
+Z:         2   1.05000   0.16539   0.16185
+Z:         2   1.15000   0.15492   0.14489
+Z:         2   1.25000   0.14924   0.12944
+Z:         2   1.35000   0.12388   0.11542
+Z:         2   1.45000   0.10471   0.10275
+Z:         2   1.55000   0.09827   0.09133
+Z:         2   1.65000   0.08137   0.08109
+Z:         2   1.75000   0.06774   0.07191
+Z:         2   1.85000   0.06863   0.06371
+Z:         2   1.95000   0.05879   0.05639
+Z:         2   2.05000   0.05500   0.04988
+Z:         2   2.15000   0.05084   0.04409
+Z:         2   2.25000   0.04125   0.03895
+Z:         2   2.35000   0.03810   0.03439
+Z:         2   2.45000   0.03166   0.03035
+Z:         2   2.55000   0.02725   0.02678
+Z:         2   2.65000   0.02410   0.02361
+Z:         2   2.75000   0.02296   0.02082
+Z:         2   2.85000   0.02246   0.01835
+Z:         2   2.95000   0.01653   0.01617
+Z:         2   3.05000   0.01325   0.01424
+Z:         2   3.15000   0.01350   0.01255
+Z:         2   3.25000   0.01312   0.01105
+Z:         2   3.35000   0.00845   0.00973
+Z:         2   3.45000   0.00820   0.00857
+Z:         2   3.55000   0.00770   0.00754
+Z:         2   3.65000   0.00706   0.00664
+Z:         2   3.75000   0.00530   0.00584
+Z:         2   3.85000   0.00429   0.00514
+Z:         2   3.95000   0.00479   0.00453
+Z:         2   4.05000   0.00416   0.00398
+Z:         2   4.15000   0.00303   0.00350
+Z:         2   4.25000   0.00341   0.00308
+Z:         2   4.35000   0.00240   0.00271
+Z:         2   4.45000   0.00240   0.00239
+Z:         2   4.55000   0.00139   0.00210
+Z:         2   4.65000   0.00139   0.00185
+Z:         2   4.75000   0.00114   0.00163
+Z:         2   4.85000   0.00214   0.00143
+Z:         2   4.95000   0.00139   0.00126
+Z:         2   5.05000   0.00202   0.00111
+Z:         2   5.15000   0.00139   0.00097
+Z:         2   5.25000   0.00114   0.00086
+Z:         2   5.35000   0.00063   0.00075
+Z:         2   5.45000   0.00013   0.00066
+Z:         2   5.55000   0.00063   0.00058
+Z:         2   5.65000   0.00126   0.00051
+Z:         2   5.75000   0.00050   0.00045
+Z:         2   5.85000   0.00013   0.00040
+Z:         2   5.95000   0.00038   0.00035
+Z:         2   6.05000   0.00025   0.00031
+Z:         2   6.15000   0.00013   0.00027
+Z:         2   6.25000   0.00050   0.00024
+Z:         2   6.35000   0.00025   0.00021
+Z:         2   6.45000   0.00038   0.00018
+Z:         2   6.55000   0.00013   0.00016
+Z:         2   6.65000   0.00000   0.00014
+Z:         2   6.75000   0.00000   0.00013
+Z:         2   6.85000   0.00000   0.00011
+Z:         2   6.95000   0.00000   0.00010
+Z:         2   7.05000   0.00000   0.00009
+Z:         2   7.15000   0.00000   0.00007
+Z:         2   7.25000   0.00000   0.00007
+Z:         2   7.35000   0.00000   0.00006
+Z:         2   7.45000   0.00000   0.00005
+Z:         2   7.55000   0.00000   0.00004
+Z:         2   7.65000   0.00000   0.00004
+Z:         2   7.75000   0.00000   0.00003
+Z:         2   7.85000   0.00000   0.00003
+Z:         2   7.95000   0.00000   0.00003
+Z:         2   8.05000   0.00000   0.00002
+profile_658_> Percentage of alignments from previous iterations still significant, [iter, perc]:        2,       95.2381
+
+HITS FOUND IN ITERATION:     2
+
+> 6z3uA                      2    1413    8033     312     289   14.69    0.38E-09      22   202    50   260    51   261
+> 1zp2A                      2   13324    6812     227     289   17.98    0.13E-06      23   171    30   219    15   192
+> 3mi9B                      2   24465    8060     247     289   17.44    0.26E-09      24   179    47   230    23   217
+> 7jv7B                      2   42941    5675     310     289   13.18    0.61E-04      25   200    50   251    27   246
+> 1c9bA                      2   58800    6068     207     289   16.67    0.53E-05      26   137    69   213    18   155
+> 5xs2B                      2   58946    7986     263     289   19.59    0.40E-09      27   180    27   210    11   204
+> 3blhB                      2   70911    7889     255     289   15.49    0.62E-09      28   210    47   263    25   250
+> 2ivxA                      2   71070    8145     256     289   17.02    0.17E-09      29   173    54   230    29   216
+
+profile_iteration__> Weight Matrix           [sec]:     0.000000
+profile_iteration__> Score Collection        [sec]:     7.710000
+profile_iteration__> Score Collection/Seq    [sec]:     0.000097
+profile_iteration__> DP Steps per sec    [ali/sec]: 10334.810547
+profile_iteration__> Statistics              [sec]:     0.040000
+profile_iteration__> Add to profile          [sec]:     0.010000
+profile_iteration__> Overall performance    [/seq]:     0.000098
+profile_iteration__> Overall performance [seq/sec]: 10201.801758
+profile_iteration_> processing sequence:       1    289     29     0.0000000     0.0000000     0.0000000     1
+profile_iteration_> processing sequence:    7928    289     29     0.7800000     0.0000984     0.0000004  7928
+profile_iteration_> processing sequence:   15855    289     29     1.5300000     0.0000965     0.0000004 10363
+profile_iteration_> processing sequence:   23782    289     29     2.3099999     0.0000971     0.0000004 10295
+profile_iteration_> processing sequence:   31709    289     29     3.0699999     0.0000968     0.0000004 10329
+profile_iteration_> processing sequence:   39636    289     29     3.8399999     0.0000969     0.0000004 10322
+profile_iteration_> processing sequence:   47563    289     29     4.5999999     0.0000967     0.0000004 10340
+profile_iteration_> processing sequence:   55490    289     29     5.3800001     0.0000970     0.0000004 10314
+profile_iteration_> processing sequence:   63417    289     29     6.1500001     0.0000970     0.0000004 10312
+profile_iteration_> processing sequence:   71344    289     29     6.9200001     0.0000970     0.0000004 10310
+ AVERAGE RESIDUAL STANDARD ERROR:    61.8141556
+ AVERAGE RESIDUAL STANDARD DEVIATION:    254.786652
+profile_660_> Quality of the fit between observed/expected score distributions.
+              [Iteration, Chi2, nbins, KS-Stat, nscores ] =        3,        0.0188,      121,        0.0108,    79268
+
+HISTOGRAM OF Z-SCORES:
+
+Z:         3  -3.95000   0.00000   0.00000
+Z:         3  -3.85000   0.00013   0.00000
+Z:         3  -3.75000   0.00000   0.00000
+Z:         3  -3.65000   0.00000   0.00000
+Z:         3  -3.55000   0.00000   0.00000
+Z:         3  -3.45000   0.00000   0.00000
+Z:         3  -3.35000   0.00000   0.00000
+Z:         3  -3.25000   0.00000   0.00000
+Z:         3  -3.15000   0.00013   0.00000
+Z:         3  -3.05000   0.00000   0.00000
+Z:         3  -2.95000   0.00000   0.00000
+Z:         3  -2.85000   0.00000   0.00000
+Z:         3  -2.75000   0.00000   0.00000
+Z:         3  -2.65000   0.00000   0.00000
+Z:         3  -2.55000   0.00000   0.00001
+Z:         3  -2.45000   0.00038   0.00004
+Z:         3  -2.35000   0.00114   0.00016
+Z:         3  -2.25000   0.00164   0.00055
+Z:         3  -2.15000   0.00290   0.00163
+Z:         3  -2.05000   0.00454   0.00416
+Z:         3  -1.95000   0.01236   0.00933
+Z:         3  -1.85000   0.01842   0.01872
+Z:         3  -1.75000   0.03293   0.03400
+Z:         3  -1.65000   0.05891   0.05658
+Z:         3  -1.55000   0.09020   0.08721
+Z:         3  -1.45000   0.11745   0.12565
+Z:         3  -1.35000   0.16362   0.17059
+Z:         3  -1.25000   0.22670   0.21981
+Z:         3  -1.15000   0.30252   0.27052
+Z:         3  -1.05000   0.33418   0.31973
+Z:         3  -0.95000   0.38099   0.36469
+Z:         3  -0.85000   0.39688   0.40316
+Z:         3  -0.75000   0.42287   0.43360
+Z:         3  -0.65000   0.44734   0.45519
+Z:         3  -0.55000   0.44898   0.46779
+Z:         3  -0.45000   0.44709   0.47182
+Z:         3  -0.35000   0.45744   0.46811
+Z:         3  -0.25000   0.43977   0.45775
+Z:         3  -0.15000   0.42476   0.44196
+Z:         3  -0.05000   0.41152   0.42194
+Z:         3   0.05000   0.39184   0.39889
+Z:         3   0.15000   0.35449   0.37383
+Z:         3   0.25000   0.33242   0.34769
+Z:         3   0.35000   0.32472   0.32121
+Z:         3   0.45000   0.28675   0.29500
+Z:         3   0.55000   0.27413   0.26953
+Z:         3   0.65000   0.25054   0.24513
+Z:         3   0.75000   0.25975   0.22205
+Z:         3   0.85000   0.21635   0.20043
+Z:         3   0.95000   0.18141   0.18036
+Z:         3   1.05000   0.16173   0.16185
+Z:         3   1.15000   0.14255   0.14489
+Z:         3   1.25000   0.13524   0.12944
+Z:         3   1.35000   0.11644   0.11542
+Z:         3   1.45000   0.10155   0.10275
+Z:         3   1.55000   0.10218   0.09133
+Z:         3   1.65000   0.08238   0.08109
+Z:         3   1.75000   0.07519   0.07191
+Z:         3   1.85000   0.06257   0.06371
+Z:         3   1.95000   0.05677   0.05639
+Z:         3   2.05000   0.05311   0.04988
+Z:         3   2.15000   0.04819   0.04409
+Z:         3   2.25000   0.03949   0.03895
+Z:         3   2.35000   0.03621   0.03439
+Z:         3   2.45000   0.02977   0.03035
+Z:         3   2.55000   0.02321   0.02678
+Z:         3   2.65000   0.02712   0.02361
+Z:         3   2.75000   0.01943   0.02082
+Z:         3   2.85000   0.01854   0.01835
+Z:         3   2.95000   0.01880   0.01617
+Z:         3   3.05000   0.01716   0.01424
+Z:         3   3.15000   0.01564   0.01255
+Z:         3   3.25000   0.00896   0.01105
+Z:         3   3.35000   0.01148   0.00973
+Z:         3   3.45000   0.00757   0.00857
+Z:         3   3.55000   0.00744   0.00754
+Z:         3   3.65000   0.00807   0.00664
+Z:         3   3.75000   0.00807   0.00584
+Z:         3   3.85000   0.00391   0.00514
+Z:         3   3.95000   0.00442   0.00453
+Z:         3   4.05000   0.00416   0.00398
+Z:         3   4.15000   0.00378   0.00350
+Z:         3   4.25000   0.00353   0.00308
+Z:         3   4.35000   0.00303   0.00271
+Z:         3   4.45000   0.00177   0.00239
+Z:         3   4.55000   0.00214   0.00210
+Z:         3   4.65000   0.00177   0.00185
+Z:         3   4.75000   0.00164   0.00163
+Z:         3   4.85000   0.00151   0.00143
+Z:         3   4.95000   0.00063   0.00126
+Z:         3   5.05000   0.00101   0.00111
+Z:         3   5.15000   0.00177   0.00097
+Z:         3   5.25000   0.00050   0.00086
+Z:         3   5.35000   0.00139   0.00075
+Z:         3   5.45000   0.00050   0.00066
+Z:         3   5.55000   0.00076   0.00058
+Z:         3   5.65000   0.00101   0.00051
+Z:         3   5.75000   0.00050   0.00045
+Z:         3   5.85000   0.00063   0.00040
+Z:         3   5.95000   0.00025   0.00035
+Z:         3   6.05000   0.00025   0.00031
+Z:         3   6.15000   0.00076   0.00027
+Z:         3   6.25000   0.00000   0.00024
+Z:         3   6.35000   0.00025   0.00021
+Z:         3   6.45000   0.00025   0.00018
+Z:         3   6.55000   0.00025   0.00016
+Z:         3   6.65000   0.00025   0.00014
+Z:         3   6.75000   0.00000   0.00013
+Z:         3   6.85000   0.00025   0.00011
+Z:         3   6.95000   0.00000   0.00010
+Z:         3   7.05000   0.00013   0.00009
+Z:         3   7.15000   0.00000   0.00007
+Z:         3   7.25000   0.00000   0.00007
+Z:         3   7.35000   0.00013   0.00006
+Z:         3   7.45000   0.00000   0.00005
+Z:         3   7.55000   0.00000   0.00004
+Z:         3   7.65000   0.00000   0.00004
+Z:         3   7.75000   0.00000   0.00003
+Z:         3   7.85000   0.00000   0.00003
+Z:         3   7.95000   0.00000   0.00003
+Z:         3   8.05000   0.00013   0.00002
+profile_658_> Percentage of alignments from previous iterations still significant, [iter, perc]:        3,       96.5517
+
+HITS FOUND IN ITERATION:     3
+
+
+profile_iteration__> Weight Matrix           [sec]:     0.000000
+profile_iteration__> Score Collection        [sec]:     7.720000
+profile_iteration__> Score Collection/Seq    [sec]:     0.000097
+profile_iteration__> DP Steps per sec    [ali/sec]: 10375.392578
+profile_iteration__> Statistics              [sec]:     0.040000
+profile_iteration__> Add to profile          [sec]:     0.000000
+profile_iteration__> Overall performance    [/seq]:     0.000098
+profile_iteration__> Overall performance [seq/sec]: 10201.801758
+openf___224_> Open           ../CCND2/CCND2_profile.prf
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:       932940     911.074     0.890
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       934092     912.199     0.891
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       935004     913.090     0.892
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       935916     913.980     0.893
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       936560     914.609     0.893
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       937308     915.340     0.894
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       938216     916.227     0.895
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       938920     916.914     0.895
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       939624     917.602     0.896
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       940616     918.570     0.897
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       941560     919.492     0.898
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       942472     920.383     0.899
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       943068     920.965     0.899
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       943796     921.676     0.900
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       944440     922.305     0.901
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       945388     923.230     0.902
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       946296     924.117     0.902
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       947180     924.980     0.903
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       948048     925.828     0.904
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       949000     926.758     0.905
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       949680     927.422     0.906
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       950524     928.246     0.906
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       951328     929.031     0.907
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       952008     929.695     0.908
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       952720     930.391     0.909
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       953516     931.168     0.909
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       954060     931.699     0.910
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       954776     932.398     0.911
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       955612     933.215     0.911
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       956300     933.887     0.912
+openf___224_> Open           ../CCND2/CCND2_alignmentoutput.ali

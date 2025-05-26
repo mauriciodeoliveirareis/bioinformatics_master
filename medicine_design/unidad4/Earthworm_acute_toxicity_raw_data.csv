@@ -1,0 +1,203 @@
+SMILES;value;Experimental guidelines
+COc1nc(C)nc(NC(=O)NS(=O)(=O)c2ccccc2OCCCl)n1;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCO/N=C(\CC)C1=C(O)CC(c2c(C)cc(C)cc2C)CC1=O;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC1(C(=O)Nc2ccc(O)c(Cl)c2Cl)CCCCC1;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=C(NC(=O)c1c(F)cccc1F)Nc1cc(Cl)c(OC(F)(F)C(F)C(F)(F)F)cc1Cl;non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=[N+]([O-])c1cc(C(F)(F)F)c(Cl)c([N+](=O)[O-])c1Nc1ncc(C(F)(F)F)cc1Cl;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Oc1ccccc1-c1ccccc1;positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC1(C)CC/C(=C/c2ccc(Cl)cc2)C1(O)Cn1cncn1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCS(=O)CCSP(=O)(OC)OC;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCC(=O)Nc1ccc(Cl)c(Cl)c1;positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=C(Nc1ccccc1)N(Cc1ccc(Cl)cc1)C1CCCC1;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCCCOC(=O)C(C)Oc1ccc(Oc2ccc(C(F)(F)F)cn2)cc1;negative;850.3100 - Earthworm Subchronic Toxicity Test 
+[SH-].[SH-].[Fe].[Fe+2];negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC1(c2ccc(Oc3ccccc3)cc2)OC(=O)N(Nc2ccccc2)C1=O;Toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cc1nn(C)c(F)c1C(=O)Nc1ccccc1C(C)CC(C)C;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Oc1nc2ccc(Cl)cc2nc1O;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCCSP(=O)(OCC)SCCC;Toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCOC(=O)[C@@H](C)Oc1ccc(Oc2cnc3cc(Cl)ccc3n2)cc1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=C(NC(=O)c1c(F)cccc1F)Nc1ccc(Cl)cc1;non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Nc1c(Cl)c(F)nc(OCC(=O)O)c1Cl;Toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=C(O)CNCP(=O)(O)O;non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cc1cc(C(F)(C(F)(F)F)C(F)(F)F)ccc1NC(=O)c1cccc(I)c1C(=O)NC(C)(C)CS(C)(=O)=O;non-toxic;850.3100 - Earthworm Subchronic Toxicity Test 
+[Na+].CCCCCCCCCCCCC1=C(OC(C)=O)C(=O)c2ccccc2C1=O;non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cc1cc(C)c(C2=C(OC(=O)CC(C)(C)C)C3(CCCC3)OC2=O)c(C)c1;non-toxic;850.3100 - Earthworm Subchronic Toxicity Test 
+Cc1cc(C)nc(NC(=O)NS(=O)(=O)c2ccccc2C(=O)OC2COC2)n1;non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COC(=O)c1ccccc1S(=O)(=O)NC(=O)Nc1nc(C)nc(OC)n1;non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=c1c2cc(F)ccc2nc(-n2cncn2)n1-c1ccc(Cl)cc1Cl;non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COc1ccc(/C(=C\C(=O)N2CCOCC2)c2ccc(Cl)cc2)cc1OC;non-toxic;850.3100 - Earthworm Subchronic Toxicity Test 
+CCC(C)(NC(=O)c1cc(Cl)c(C)c(Cl)c1)C(=O)CCl;non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cc1ccc(N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C)cc1;non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cc1nnc(-c2ccccc2)c(=O)n1N;Toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1;non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COC(=O)c1ccc(C(F)(F)F)nc1S(=O)(=O)N([Na])C(=O)Nc1nc(OC)cc(OC)n1;non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COP(=O)(OC)C(O)C(Cl)(Cl)Cl;Toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Nc1c([N+](=O)[O-])ccc(Oc2ccccc2)c1Cl.[H+].[H+].[Cl-].[Cl-];Toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(COc1ccc(Oc2ccccc2)cc1)Oc1ccccn1;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCNC(=O)NC(=O)/C(C#N)=N/OC;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CNC(=O)ON=C(C)SC;positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+N#Cc1sc2c(=O)c3ccccc3c(=O)c=2sc1C#N;Toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(C)(C)C(O)C(Oc1ccc(-c2ccccc2)cc1)n1cncn1.[Na+];negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+[H+].[H+].[Cl-].[Cl-].CCOP(=S)(OCC)SCn1c(=O)oc2cc(Cl)ccc21;positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+c1ccc(CNc2ncnc3[nH]cnc23)cc1;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+[Na+].O=C(O)Cc1cccc2ccccc12;Non-toxic;850.3100 - Earthworm Subchronic Toxicity Test 
+CCC/C(=N\OCC)C1=C(O)CC(C2CCCSC2)CC1=O;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCN(CC)C(=O)C(C)Oc1cccc2ccccc12;Toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COc1ncc(F)c2nc(S(=O)(=O)Nc3c(F)cccc3F)nn12;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCCOc1nc2ccc(I)cc2c(=O)n1CCC;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(C)N1C(=O)N(c2ccccc2)CSC1=NC(C)(C)C;negative;850.3100 - Earthworm Subchronic Toxicity Test 
+CNONFN;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(C)(C)C(O)(CCc1ccc(Cl)cc1)Cn1cncn1;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+FC(F)C(F)(F)OCC(Cn1cncn1)c1ccc(Cl)cc1Cl;positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Nc1ccc(S(=O)(=O)NC(=O)O[Na])cc1;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=S(=O)(O)O.CCC(=O)Nc1ccc(Cl)c(Cl)c1;positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+FClF;positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=C1c2ccccc2C(=O)N1SC(Cl)(Cl)Cl;Negative;850.3100 - Earthworm Subchronic Toxicity Test 
+Nc1c([N+](=O)[O-])ccc(Oc2ccccc2)c1Cl;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=C(NCCc1ncc(C(F)(F)F)cc1Cl)c1ccccc1C(F)(F)F;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+FC(F)(F)c1ccc(OCCCOc2c(Cl)cc(OCC=C(Cl)Cl)cc2Cl)nc1;negative;850.3100 - Earthworm Subchronic Toxicity Test 
+COc1cc(OC)nc(NC(=O)NS(=O)(=O)N(C)S(C)(=O)=O)n1.OC(=O)\C=C\C(O)=O;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CSc1nnc(C(C)(C)C)c(=O)n1N.O=S(=O)(O)O;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCOc1cc(Oc2ccc(C(F)(F)F)cc2Cl)ccc1[N+](=O)[O-];Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCOP(=S)(OCC)Oc1cc(C)nc(C(C)C)n1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COOO#C;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CNC(=O)ON=C(C)SC.[H+].[H+].[Cl-].[Cl-];toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCCCOC(=O)[C@@H](C)Oc1ccc(Oc2ccc(C(F)(F)F)cn2)cc1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(C)C1CCC(Cc2ccc(Cl)cc2)C1(O)Cn1cncn1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cc1cccc(C)c1N(Cn1cccn1)C(=O)CCl;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCOc1nc(NC)nc(NC(=O)NS(=O)(=O)c2ccccc2C(=O)OC)n1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COC(=O)c1cc(Oc2ccc(Cl)cc2Cl)ccc1[N+](=O)[O-];Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCCN(CCC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-];Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=C(NC(=O)c1c(F)cccc1F)Nc1ccc(Oc2ccc(C(F)(F)F)cc2Cl)cc1F;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=c1[nH]c2c(c(=O)n1C1CCCCC1)CCC2;Non-toxic;850.3100 - Earthworm Subchronic Toxicity Test 
+[O-][n+]1nc(-n2ccnc2)nc2ccc(Cl)cc21;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CO/C=C(/C(=O)OC)c1ccccc1Oc1cc(Oc2ccccc2C#N)ncn1;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cc1cc(C)cc(C(=O)N(NC(=O)c2ccc3c(c2C)CCCO3)C(C)(C)C)c1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COC(=O)C(C)Oc1ccc(Oc2ccc(Cl)cc2Cl)cc1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCOC(=O)CCN(SN(C)C(=O)Oc1cccc2c1OC(C)(C)C2)C(C)C;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+[H+].[Cl-].COC(=O)C(C)Oc1ccc(Oc2ccc(Cl)cc2Cl)cc1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC1(C)[C@@H](/C=C(\Cl)C(F)(F)F)[C@H]1C(=O)O[C@H](C#N)c1cccc(Oc2ccccc2)c1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCC(C)(CC)c1cc(NC(=O)c2c(OC)cccc2OC)on1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+C/C=C(\C)C(=O)O[C@H]1C[C@@H](OC(C)=O)[C@@]2(C(=O)OC)CO[C@H]3[C@@H](O)[C@@](C)([C@]45O[C@@]4(C)[C@H]4C[C@@H]5O[C@@H]5OC=C[C@@]54O)[C@@H]4[C@@](O)(C(=O)OC)OC[C@@]14[C@@H]32;Negative;850.3100 - Earthworm Subchronic Toxicity Test 
+CC(c1ccc(C(F)(F)F)nc1)S(C)(=O)=NC#N;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CS(=O)(=O)c1ccc(C(=O)C2C(=O)CCCC2=O)c(Cl)c1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC1=NNC(=O)N(/N=C/c2cccnc2)C1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COC(=O)Nc1nc2ccccc2[nH]1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COc1cc(OC)nc(NC(=O)NS(=O)(=O)N(C)S(C)(=O)=O)n1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COC(=O)CC(NC(=O)[C@@H](NC(=O)OC(C)C)C(C)C)c1ccc(Cl)cc1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC1(C)[C@@H](/C=C\C(=O)OC(C(F)(F)F)C(F)(F)F)[C@H]1C(=O)O[C@H](C#N)c1cccc(Oc2ccccc2)c1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Nc1nc(N)nc(NC2CC2)n1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCOc1ccc(NC(=O)OC(C)C)cc1OCC;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CNC(=O)/C(=N/OC)c1ccccc1COc1cc(C)ccc1C;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COC(=O)c1csc(C)c1S(=O)(=O)NC(=O)n1nc(OC)n(C)c1=O;Negative;850.3100 - Earthworm Subchronic Toxicity Test 
+Cc1c(Br)c2ccc(F)cc2n1S(=O)(=O)c1ncn(S(=O)(=O)N(C)C)n1;Negative;850.3100 - Earthworm Subchronic Toxicity Test 
+CCOC(=O)[C@@H](C)Oc1ccc(Oc2nc3ccc(Cl)cc3o2)cc1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=[N+]([O-])NC1=NCCN1Cc1ccc(Cl)nc1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+OC(Cn1cncn1)(c1ccc(F)cc1)c1ccccc1F;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(C)[C@@H](Nc1ccc(C(F)(F)F)cc1Cl)C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COC(=O)[C@@H](C)N(C(=O)Cc1ccccc1)c1c(C)cccc1C;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CNC(=O)ON=C(SC)C(=O)N(C)C;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCCN(CC)CC1COC2(CCC(C(C)(C)C)CC2)O1;Negative;850.3100 - Earthworm Subchronic Toxicity Test 
+CCc1ccc(C(=O)NN(C(=O)c2cc(C)cc(C)c2)C(C)(C)C)cc1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCCCCCCCc1c(CC)nc2ncnn2c1N;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(Oc1ccc(Oc2cnc3cc(Cl)ccc3n2)cc1)C(=O)OCC1CCCO1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCCCCCCCCCCCC1=C(OC(C)=O)C(=O)c2ccccc2C1=O;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Nc1cc(Cl)nc(C(=O)O)c1Cl;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CSc1nnc(C(C)(C)C)c(=O)n1N;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COc1cc(OC)n2nc(S(=O)(=O)Nc3c(Cl)ccc(C)c3Cl)nc2n1;Non-toxic;850.3100 - Earthworm Subchronic Toxicity Test 
+COc1cc(OC)n2nc(NS(=O)(=O)c3c(C(F)(F)F)ccnc3OC)nc2n1;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(Oc1ccc(Oc2cnc3cc(Cl)ccc3n2)cc1)C(=O)O;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CN(C)C(=O)Nc1cccc(C(F)(F)F)c1;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCNC(=O)[C@H](C)OC(=O)Nc1ccccc1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COC(=O)c1ccccc1S(=O)(=O)NC(=O)Nc1nc(C)nc(OC)n1.[Na+];Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC1(C)CCC(Cc2ccc(Cl)cc2)C1(O)Cn1cncn1;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCc1cc(C)cc(CC)c1-c1c(OC(=O)C(C)(C)C)n2n(c1=O)CCOCC2;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cc1c(C(=O)c2cnn(C)c2O)ccc(S(C)(=O)=O)c1C1=NOCC1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+C=C1C[C@]23C[C@H]1CC[C@H]2[C@@]12CC[C@H](O)[C@@](C)(C(=O)O1)[C@H]2[C@@H]3C(=O)O;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCCN(CCC)C(=O)SCc1ccccc1;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=S(=O)(O)O.O=C(Nc1ccccc1)N(Cc1ccc(Cl)cc1)C1CCCC1;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COC(=O)c1cccc(C)c1S(=O)(=O)NC(=O)Nc1nc(OCC(F)(F)F)nc(N(C)C)n1;Non-toxic;850.3100 - Earthworm Subchronic Toxicity Test 
+COc1cc(OC)nc(NC(=O)NS(=O)(=O)Nc2ccccc2C(=O)N(C)C)n1;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC1(C(=O)N(C(=O)O1)NC2=CC=CC=C2)C3=CC=C(C=C3)OC4=CC=CC=C4;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=C(NC(=O)c1c(F)cccc1F)Nc1cc(Cl)c(F)c(Cl)c1F;Non-toxic;850.3100 - Earthworm Subchronic Toxicity Test 
+COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2c(-c3nnn(C)n3)cnn2C)n1;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2ncccc2C(=O)N(C)C)n1;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=C(O)Cc1cccc2ccccc12;Non-toxic;850.3100 - Earthworm Subchronic Toxicity Test 
+Cc1cccc2sc3[nH+]ncn3c12;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CNC(=O)c1cc(Cl)cc(C)c1NC(=O)c1cc(Br)nn1-c1ncccc1Cl;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCOC(=O)OC1=C(c2cc(C)ccc2C)C(=O)N[C@]12CC[C@@H](OC)CC2;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COc1nc(C)nc(NC(=O)NS(=O)(=O)c2ccccc2CCC(F)(F)F)n1;Non-toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CN1CSC(=S)N(C)C1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CS(=O)C.CCOc1nc(NC)nc(NC(=O)NS(=O)(=O)c2ccccc2C(=O)OC)n1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCOP(=O)(NC(C)C)Oc1ccc(SC)c(C)c1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COCC(=O)N(c1c(C)cccc1C)[C@H](C)C(=O)OC;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cc1cc(O)no1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cc1cc(C)nc(Nc2ccccc2)n1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COc1cnc(OC)n2nc(NS(=O)(=O)c3c(OCC(F)F)cccc3C(F)(F)F)nc12;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+C#CCOS(=O)OC1CCCCC1Oc1ccc(C(C)(C)C)cc1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+C=C1C[C@]23C[C@H]1CC[C@H]2[C@@]12C=C[C@H](O)[C@@](C)(C(=O)O1)[C@H]2[C@@H]3C(=O)O;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(Cc1ccc(C(C)(C)C)cc1)CN1CC(C)OC(C)C1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCOP(=S)(OCC)SCn1c(=O)oc2cc(Cl)ccc21;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cc1cc(C2CC2)nc(Nc2ccccc2)n1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COc1c(Cl)ccc(Cl)c1C(=O)O;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cc1cnc2c(C(=O)O)c(Cl)ccc2c1;Negative;850.3100 - Earthworm Subchronic Toxicity Test 
+CCCCN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-];Negative;850.3100 - Earthworm Subchronic Toxicity Test 
+Nc1cnn(-c2ccccc2)c(=O)c1Cl;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CNC(=O)C(OC)c1ccccc1COc1cc(C)ccc1C;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+ccc;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+N#Cc1ccc(C/C(=N/NC(=O)Nc2ccc(OC(F)(F)F)cc2)c2cccc(C(F)(F)F)c2)cc1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+NC1=C(Cl)C(=O)c2ccccc2C1=O;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+N#Cc1c(Cl)cccc1Cl;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(C)(C)C(O)C(Oc1ccc(-c2ccccc2)cc1)n1cncn1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(C)N(C(=O)SCC(Cl)=C(Cl)Cl)C(C)C;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(C)Oc1cc(-n2nc(C(C)(C)C)oc2=O)c(Cl)cc1Cl;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Clc1ccc(C2(Cn3cncn3)CC(Br)CO2)c(Cl)c1;Negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+C=CCOC(Cn1ccnc1)c1ccc(Cl)cc1Cl;Toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCOc1nc(C(Cl)(Cl)Cl)ns1;Toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(C)CC(C)c1sccc1NC(=O)c1cn(C)nc1C(F)(F)F;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCc1nn(C)c(C(=O)NCc2ccc(C(C)(C)C)cc2)c1Cl;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+ClC=CCCl;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCOCN(C(=O)CCl)c1c(C)cccc1CC;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=C(Nc1ccc(F)cc1F)c1cccnc1Oc1cccc(C(F)(F)F)c1;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(C)(C)c1ccc(CCOc2ncnc3ccccc23)cc1;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Nc1c(Cl)cc([N+](=O)[O-])cc1Cl;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCCCCCCCc1c(CC)nc2ncnn2c1N.[H+].[Cl-];negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(C)Oc1cccc(NC(=O)c2ccccc2C(F)(F)F)c1;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=C1C=C(N(Cc2ccc(Cl)nc2)CC(F)F)CO1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCOc1cc(C(C)(C)C)ccc1C1COC(c2c(F)cccc2F)=N1;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Nc1c(Cl)c(Cl)nc(C(=O)O)c1Cl;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCCCc1c(C)nc(NCC)nc1OS(=O)(=O)N(C)C;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+[Cl-].[Cl-].[Hg++];negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(C)(C)c1ccc(CCOc2ncnc3ccccc23)cc1;positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Nc1c(Cl)cc([N+](=O)[O-])cc1Cl;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCCCCCCCc1c(CC)nc2ncnn2c1N.[H+].[Cl-];Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(C)Oc1cccc(NC(=O)c2ccccc2C(F)(F)F)c1;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CO!OO=C;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=C1C=C(N(Cc2ccc(Cl)nc2)CC(F)F)CO1;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cn1c(=O)c(Oc2ccc(F)cc2F)cc2cnc(NC(CCO)CCO)nc21;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cn1cc(-c2cnc3cnn(S(=O)(=O)c4cnc5ccc(-c6cnn(C)c6)cn45)c3c2)cn1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cc1cc(F)ccc1-c1nc(NC(CO)CO)nc2c1ccc(=O)n2-c1c(F)cccc1F.Cc1ccc(S(=O)(=O)O)cc1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+C=OOO=C;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+C/C(=N\NC(=N)N)c1cc(NC(=O)CCCCCCCCC(=O)Nc2cc(/C(C)=N/NC(=N)N)cc(/C(C)=N/NC(=N)N)c2)cc(/C(C)=N/NC(=N)N)c1;negative;850.3100 - Earthworm Subchronic Toxicity Test 
+CC(C)(C)Cn1c(N)nc2ccc(-c3[nH]c(C(C)(C)C)nc3-c3ccc(F)cc3)nc21.CS(=O)(=O)O.CS(=O)(=O)O;negative;850.3100 - Earthworm Subchronic Toxicity Test 
+COc1cc2c(Nc3ccc(Sc4nccn4C)c(Cl)c3)c(C#N)cnc2cc1N1CCC(N2CCCC2)CC1;Positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+COc1cc(F)c(F)c(Nc2ccc(I)cc2F)c1NS(=O)(=O)C1(C[C@H](O)CO)CC1;negative;850.3100 - Earthworm Subchronic Toxicity Test 
+Cc1cc(F)ccc1-c1nc(NC(CO)CO)nc2c1ccc(=O)n2-c1c(F)cccc1F;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CCCc1cc(=O)[nH]c(=S)[nH]1;toxic;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CC(=O)Nc1cccc(-n2c(=O)n(C3CC3)c(=O)c3c(Nc4ccc(I)cc4F)n(C)c(=O)c(C)c32)c1;negative;850.3100 - Earthworm Subchronic Toxicity Test 
+CC(=O)Nc1cccc(-n2c(=O)n(C3CC3)c(=O)c3c(Nc4ccc(I)cc4F)n(C)c(=O)c(C)c32)c1.C[S+](C)[O-];negative;850.3100 - Earthworm Subchronic Toxicity Test 
+CC(=O)O[C@H]1C[C@@H](C)[C@]23OC(C)(C)[C@H](C[C@H](OC(=O)c4ccccc4)[C@]2(COC(=O)c2ccccc2)[C@H]1OC(C)=O)[C@H]3OC(C)=O;positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cn1cnc2c(F)c(Nc3ccc(Br)cc3Cl)c(C(=O)NOCCO)cc21.O=S(=O)(O)O;positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+N#CC(c1ccnc(OCc2ccc(CN3CCOCC3)cc2)n1)c1nc2ccccc2s1;negative;850.3100 - Earthworm Subchronic Toxicity Test 
+CC1(C)CC[C@@]2(C(=O)O)[C@@H](C1)C1=CC[C@@H]3[C@@]4(C)CC[C@H](O)C(C)(C)[C@@H]4CC[C@@]3(C)[C@]1(C)[C@@H](O)[C@H]2O;negative;850.3100 - Earthworm Subchronic Toxicity Test 
+CCC(=O)O[C@]1(C(=O)CCl)[C@@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C;positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cn1cnc2c(F)c(Nc3ccc(Br)cc3Cl)c(C(=O)NOCCO)cc21;positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CN(CCCl)CCCl;negative;850.3100 - Earthworm Subchronic Toxicity Test 
+O=c1ncn2nc(Sc3ccc(F)cc3F)ccc2c1-c1c(Cl)cccc1Cl;negative;850.3100 - Earthworm Subchronic Toxicity Test 
+O=C(O)/C=C/C(=O)O.O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)([C@@H]2CCCCN2)C1.O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)([C@@H]2CCCCN2)C1;positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)([C@@H]2CCCCN2)C1;positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+Cc1c(F)cc(C(=O)NC2CC2)cc1-c1ccc(C(=O)NCC(C)(C)C)cn1;positive;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+CClCCC=OF;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests
+cccCCC;negative;OECD Guidelines 207: Earthworm, Acute Toxicity Tests

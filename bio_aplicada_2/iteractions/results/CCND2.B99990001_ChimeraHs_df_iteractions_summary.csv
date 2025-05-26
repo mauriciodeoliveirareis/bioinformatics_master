@@ -1,0 +1,9 @@
+;Type;Count
+0;Anionic;4
+1;PiCation;1
+2;HBAcceptor;193
+3;HBDonor;193
+4;Hydrophobic;284
+5;VdWContact;881
+6;Cationic;4
+7;CationPi;1

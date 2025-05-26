@@ -1,0 +1,47 @@
+[+] Searching templates for CCND2
+	[++] the following templates have been found CCND2
+2	4eojB	X	1	257	30	271	11	240	229	31.	0.0
+3	4eojD	X	1	256	30	271	11	240	229	31.	0.0
+4	5efqB	X	1	242	56	221	30	207	162	24.	0.66E-02
+5	6gu2B	X	1	265	30	223	12	199	188	26.	0.0
+6	3qhwB	X	1	261	30	270	15	243	228	32.	0.0
+7	7kjsB	X	1	262	24	207	8	194	177	30.	0.0
+8	1w98B	X	1	270	24	207	12	202	177	30.	0.0
+9	2w96A	X	1	249	4	264	1	249	249	65.	0.0
+10	2w9fA	X	1	237	24	260	1	237	237	66.	0.0
+11	3ddqD	X	1	269	30	271	16	245	229	31.	0.0
+12	1kxuA	X	1	276	63	221	54	223	150	26.	0.78E-04
+13	1f5qB	X	1	247	17	202	6	190	183	27.	0.12E-08
+14	2i53A	X	1	254	56	221	37	214	162	24.	0.69E-02
+15	2f2cA	X	1	244	11	259	1	242	238	31.	0.0
+16	3g33B	X	1	229	23	257	2	229	228	69.	0.0
+17	1g3nC	X	1	233	21	250	1	222	222	35.	0.0
+18	1bu2A	X	1	229	25	250	1	221	218	29.	0.0
+19	7sj3B	X	1	242	13	258	4	242	239	68.	0.0
+20	2b9rA	X	1	254	49	223	25	195	171	26.	0.0
+21	4bcmD	X	1	236	30	271	11	223	212	35.	0.0
+22	6z3uA	X	2	312	50	260	51	261	202	15.	0.38E-09
+23	1zp2A	X	2	227	30	219	15	192	171	18.	0.13E-06
+24	3mi9B	X	2	247	47	230	23	217	179	17.	0.26E-09
+25	7jv7B	X	2	310	50	251	27	246	200	13.	0.61E-04
+26	1c9bA	X	2	207	69	213	18	155	137	17.	0.53E-05
+27	5xs2B	X	2	263	27	210	11	204	180	20.	0.40E-09
+28	3blhB	X	2	255	47	263	25	250	210	15.	0.62E-09
+29	2ivxA	X	2	256	54	230	29	216	173	17.	0.17E-09
+
+		Column 11th shows the percentage of identity and the 12th column the e-value of the alignment
+		An identity value above approximately 25% indicates a potential template. A threshold of 60 will be used
+		The closer the E-value to 0, the better is the alignment. A threshold of 0 will be used
+
+[+] Saving identifiers
+	[++] File ../CCND2/CCND2_pdbfiles.txt has been created with the following sequences
+		 ['2w96A', '2w9fA', '3g33B', '7sj3B']
+[+] Downloading templates for CCND2
+Downloading structure 2w96
+TITLE     CRYSTAL STRUCTURE OF CDK4 IN COMPLEX WITH A D-TYPE CYCLIN             
+Downloading structure 2w9f
+TITLE     CRYSTAL STRUCTURE OF CDK4 IN COMPLEX WITH A D-TYPE CYCLIN             
+Downloading structure 3g33
+TITLE     CRYSTAL STRUCTURE OF CDK4/CYCLIN D3                                   
+Downloading structure 7sj3
+TITLE     STRUCTURE OF CDK4-CYCLIN D3 BOUND TO ABEMACICLIB                      

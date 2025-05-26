@@ -1,0 +1,21 @@
+name: UEenv
+channels:
+  - conda-forge
+  - salilab
+  - defaults
+dependencies:
+  - python=3.9  # Adjust the Python version as needed
+  - numpy
+  - pandas
+  - matplotlib
+  - rdkit
+  - scikit-learn
+  - seaborn
+  - jupyter
+  - pip:
+      - jinja2
+      - jsonpickle
+      - openpyxl
+      - prolif
+      - py3dmol
+      - pyvis

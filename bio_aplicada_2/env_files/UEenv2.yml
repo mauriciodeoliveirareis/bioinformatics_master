@@ -1,0 +1,173 @@
+name: UEenv2
+channels:
+  - conda-forge
+  - salilab
+  - defaults
+dependencies:
+  - python=3.9
+  # - _openmp_mutex=4.5 # Removed
+  - asttokens=3.0.0
+  - biopython=1.85
+  - blosc # Relaxed
+  - boost # Relaxed
+  - boost-cpp # Relaxed
+  - brotli
+  - brotli-bin
+  - bzip2
+  - ca-certificates
+  - cached-property # Kept one version
+  # - cached_property # Removed duplicate
+  - cairo # Relaxed
+  - certifi
+  - cftime
+  - chardet
+  - cloudpickle
+  - colorama
+  - comm
+  - contourpy # Relaxed version constraint
+  # - cpython # Removed
+  - cycler
+  - debugpy
+  - decorator
+  - dill
+  - exceptiongroup
+  - executing
+  - fasteners
+  - font-ttf-dejavu-sans-mono
+  - font-ttf-inconsolata
+  - font-ttf-source-code-pro
+  - font-ttf-ubuntu
+  - fontconfig
+  - fonts-conda-ecosystem
+  - fonts-conda-forge
+  - fonttools
+  - freetype
+  - freetype-py
+  - greenlet
+  - griddataformats
+  - gsd
+  - h5py # Relaxed, hdf5 is a dependency
+  - hdf4
+  - hdf5 # Relaxed version constraint
+  - icu # Relaxed
+  - importlib-metadata
+  - ipykernel
+  - ipython
+  - jedi
+  - joblib
+  - jupyter_client
+  - jupyter_core
+  - kiwisolver
+  - krb5
+  - lcms2
+  - lerc
+  - libaec
+  - libblas
+  - libbrotlicommon
+  - libbrotlidec
+  - libbrotlienc
+  - libcblas
+  - libcurl
+  - libdeflate
+  - libexpat
+  - libffi
+  - libfreetype
+  - libfreetype6
+  - libglib # Relaxed
+  # - libgomp # Removed
+  - libhwloc
+  - libiconv
+  - libintl # Relaxed
+  - libjpeg-turbo
+  - liblapack
+  - liblzma
+  - liblzma-devel
+  - libnetcdf # Relaxed version constraint
+  - libpng
+  - libsodium
+  - libsqlite
+  - libssh2
+  - libtiff
+  - libwebp-base
+  - libxcb
+  - libxml2
+  - libzip
+  - libzlib
+  - lz4-c
+  - matplotlib-base
+  - matplotlib-inline
+  - mda-xdrlib
+  - mdanalysis
+  # - mkl # Removed
+  - mmtf-python
+  - mrcfile
+  - msgpack-python
+  - multiprocess
+  - munkres
+  - nest-asyncio
+  - netcdf4 # Relaxed, libnetcdf is a dependency
+  - networkx
+  - numpy
+  - openjpeg
+  - openssl # Relaxed version constraint, let conda resolve
+  - packaging
+  - pandas
+  - parso
+  - patsy
+  - pcre2
+  - pickleshare
+  - pillow
+  - pip
+  - pixman
+  - platformdirs
+  - prolif
+  - prompt-toolkit
+  - psutil
+  - pthread-stubs
+  - pure_eval
+  - pycairo # Relaxed, cairo is a dependency
+  - pyedr
+  - pygments
+  - pyparsing
+  # - python=3.10.15 # Removed
+  - python-dateutil
+  - python-tzdata
+  # - python_abi # Removed
+  - pytng
+  - pytz
+  - pyzmq
+  - qhull
+  - rdkit # Relaxed
+  - reportlab
+  - rlpycairo
+  - scikit-learn
+  - scipy
+  - seaborn
+  - seaborn-base
+  - setuptools
+  - six
+  - snappy
+  - sqlalchemy
+  - stack_data
+  - statsmodels
+  - tbb
+  - threadpoolctl
+  - tidynamics
+  - tk
+  - tornado
+  - tqdm
+  - traitlets
+  - typing-extensions # Keep one
+  # - typing_extensions # Remove duplicate
+  - tzdata
+  - unicodedata2
+  - wcwidth
+  - wheel
+  - xorg-libxau
+  - xorg-libxdmcp
+  - xz
+  - xz-tools
+  - zeromq
+  - zipp
+  - zlib
+  - zstd
