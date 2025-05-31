@@ -1,0 +1,4 @@
+SMILES;Druglikeness score;Bioavailability30;Caco-2 permeability: cm/s;Blood-brain barrier;Plasma-protein binding: %
+Cc1nc(O)cc(C2COCCN2C(=O)c2ccnnc2)n1;8/8;Positive;-4.86039;BBB-;0.46698
+COCCNC(=O)CN(c1cc(Cl)ccc1OC)[S+](C)(=O)[O-];7/8;Positive;-5.00915;BBB-;0.5783
+COc1ccc2ncn(CC(C)(O)CCCO)c(=O)c2c1;8/8;Positive;-4.98084;BBB-;0.54393
