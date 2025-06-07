@@ -16,6 +16,7 @@ os.chdir(parent)
 print(f'Working on: \n {os.getcwd()}')
 
 df = pd.read_excel("./protoadme_data_base_screening_out.xlsx", sheet_name="Summary")
+
 filtered_df = df[
     (df["Druglikeness score"].isin(["7/8", "8/8"])) &
     (df["Bioavailability30"] == "Positive") &

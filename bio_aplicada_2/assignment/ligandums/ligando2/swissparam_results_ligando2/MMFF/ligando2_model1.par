@@ -1,0 +1,190 @@
+*  ---- 
+* Built RTF for ligando2_model1_corr_0.mol2
+*    by user SwissParam     Fri 06 Jun 2025 17:21:24 CEST
+* ---- 
+*
+
+ATOMS
+MASS    -1 CB    12.011000
+MASS    -1 NSO2  14.006700
+MASS    -1 CR    12.011000
+MASS    -1 C=O   12.011000
+MASS    -1 NC=O  14.006700
+MASS    -1 HNCO   1.007940
+MASS    -1 O=C   15.999400
+MASS    -1 OR    15.999400
+MASS    -1 CLMM  35.452700
+MASS    -1 SO2   32.066000
+MASS    -1 O2CM  15.999400
+MASS    -1 HCMM   1.007940
+
+BONDS
+NSO2 CR    285.778     1.4720 
+NSO2 CB    342.847     1.4280 
+NSO2 SO2   237.561     1.7100 
+CR   C=O   301.539     1.4920 
+C=O  NC=O  419.491     1.3690 
+C=O  O=C   931.963     1.2220 
+NC=O HNCO  479.511     1.0150 
+NC=O CR    335.651     1.4360 
+CR   CR    306.432     1.5080 
+CR   OR    363.214     1.4180 
+CB   CB    401.068     1.3740 
+CB   CLMM  243.102     1.7210 
+CB   OR    404.019     1.3760 
+SO2  CR    234.466     1.7720 
+SO2  O2CM  773.493     1.4500 
+HCMM CR    342.991     1.0930 
+HCMM CB    381.853     1.0840 
+
+ANGLES
+CB   CB   CB     48.145    119.9770 
+CB   CB   NSO2   72.901    117.8600 
+CB   CB   HCMM   40.517    120.5710 
+CB   CB   CLMM   68.367    118.4950 
+CB   CB   OR     69.663    116.4950 
+CB   NSO2 CR     77.939    112.5110 
+CB   NSO2 SO2    85.279    112.1320 
+CR   NSO2 SO2    80.314    115.0110 
+NSO2 CR   C=O    45.626    102.6550 
+NSO2 CR   HCMM   49.800    109.0830 
+C=O  CR   HCMM   46.778    108.3850 
+HCMM CR   HCMM   37.134    108.8360 
+CR   C=O  NC=O   70.814    112.7350 
+CR   C=O  O=C    67.504    124.4100 
+NC=O C=O  O=C    65.273    127.1520 
+C=O  NC=O HNCO   41.380    120.2770 
+C=O  NC=O CR     59.084    119.6000 
+HNCO NC=O CR     39.725    120.0660 
+NC=O CR   CR     75.564    109.9600 
+NC=O CR   HCMM   53.255    107.6460 
+CR   CR   HCMM   45.770    110.5490 
+CR   CR   OR     71.390    108.1330 
+OR   CR   HCMM   56.205    108.5770 
+CR   OR   CR     86.143    106.9260 
+CB   OR   CR     77.363    102.8460 
+NSO2 SO2  CR    104.278    98.0140 
+NSO2 SO2  O2CM  112.914    108.5480 
+CR   SO2  O2CM  104.062    107.0660 
+O2CM SO2  O2CM  112.914    120.9240 
+SO2  CR   HCMM   47.713    106.8550 
+
+DIHEDRALS
+CB   CB   CB   CB       3.500  2   180.00 
+CB   CB   CB   CLMM     3.500  2   180.00 
+CB   CB   CB   HCMM     3.500  2   180.00 
+CB   CB   OR   CR       2.191  2   180.00 
+CB   NSO2 CR   C=O      0.075  3     0.00 
+CB   NSO2 CR   HCMM     0.075  3     0.00 
+CB   NSO2 SO2  CR       0.411  1     0.00 
+CB   NSO2 SO2  CR      -0.610  2   180.00 
+CB   NSO2 SO2  CR      -0.385  3     0.00 
+CB   NSO2 SO2  O2CM     0.406  1     0.00 
+CB   NSO2 SO2  O2CM     0.756  2   180.00 
+CB   NSO2 SO2  O2CM     0.633  3     0.00 
+CB   CB   CB   OR       3.500  2   180.00 
+CB   CB   NSO2 CR       1.000  2   180.00 
+CB   CB   NSO2 CR       0.900  3     0.00 
+CB   CB   NSO2 SO2      0.186  1     0.00 
+CB   CB   NSO2 SO2      1.142  2   180.00 
+CB   CB   NSO2 SO2      1.017  3     0.00 
+CB   CB   CB   NSO2     3.500  2   180.00 
+CB   OR   CR   HCMM     0.053  3     0.00 
+NSO2 CB   CB   HCMM     3.500  2   180.00 
+NSO2 CB   CB   OR       3.500  2   180.00 
+NSO2 CR   C=O  NC=O     0.200  2   180.00 
+NSO2 CR   C=O  NC=O     0.150  3     0.00 
+NSO2 CR   C=O  O=C      0.200  2   180.00 
+NSO2 CR   C=O  O=C      0.200  3     0.00 
+NSO2 SO2  CR   HCMM    -0.206  2   180.00 
+NSO2 SO2  CR   HCMM     0.060  3     0.00 
+CR   NSO2 SO2  CR      -0.457  1     0.00 
+CR   NSO2 SO2  CR      -0.241  2   180.00 
+CR   NSO2 SO2  CR       0.089  3     0.00 
+CR   NSO2 SO2  O2CM     0.794  1     0.00 
+CR   NSO2 SO2  O2CM     0.750  2   180.00 
+CR   NSO2 SO2  O2CM     0.705  3     0.00 
+CR   C=O  NC=O HNCO    -0.147  1     0.00 
+CR   C=O  NC=O HNCO     2.902  2   180.00 
+CR   C=O  NC=O HNCO     0.671  3     0.00 
+CR   C=O  NC=O CR       0.324  1     0.00 
+CR   C=O  NC=O CR       3.079  2   180.00 
+CR   C=O  NC=O CR       0.254  3     0.00 
+C=O  CR   NSO2 SO2      0.075  3     0.00 
+C=O  NC=O CR   CR      -0.513  1     0.00 
+C=O  NC=O CR   CR       0.347  2   180.00 
+C=O  NC=O CR   CR       0.474  3     0.00 
+C=O  NC=O CR   HCMM    -1.050  1     0.00 
+C=O  NC=O CR   HCMM     0.681  2   180.00 
+C=O  NC=O CR   HCMM     0.011  3     0.00 
+NC=O C=O  CR   HCMM    -0.206  1     0.00 
+NC=O C=O  CR   HCMM     0.346  2   180.00 
+NC=O C=O  CR   HCMM     0.043  3     0.00 
+NC=O CR   CR   OR       0.150  3     0.00 
+NC=O CR   CR   HCMM     0.213  3     0.00 
+HNCO NC=O C=O  O=C      0.718  1     0.00 
+HNCO NC=O C=O  O=C      2.487  2   180.00 
+HNCO NC=O C=O  O=C     -0.227  3     0.00 
+HNCO NC=O CR   CR       0.276  1     0.00 
+HNCO NC=O CR   CR      -0.190  2   180.00 
+HNCO NC=O CR   CR       0.163  3     0.00 
+HNCO NC=O CR   HCMM    -0.308  1     0.00 
+HNCO NC=O CR   HCMM     0.137  3     0.00 
+O=C  C=O  CR   HCMM     0.330  1     0.00 
+O=C  C=O  CR   HCMM    -0.704  2   180.00 
+O=C  C=O  CR   HCMM     0.154  3     0.00 
+O=C  C=O  NC=O CR      -0.160  1     0.00 
+O=C  C=O  NC=O CR       3.147  2   180.00 
+O=C  C=O  NC=O CR      -0.073  3     0.00 
+CR   CR   OR   CR      -0.341  1     0.00 
+CR   CR   OR   CR       0.378  2   180.00 
+CR   CR   OR   CR       0.378  3     0.00 
+CR   OR   CR   HCMM     0.285  1     0.00 
+CR   OR   CR   HCMM     0.160  2   180.00 
+CR   OR   CR   HCMM     0.285  3     0.00 
+OR   CR   CR   HCMM    -0.327  1     0.00 
+OR   CR   CR   HCMM     0.536  2   180.00 
+OR   CR   CR   HCMM     0.140  3     0.00 
+CLMM CB   CB   HCMM     3.500  2   180.00 
+OR   CB   CB   HCMM     3.500  2   180.00 
+SO2  NSO2 CR   HCMM     0.178  1     0.00 
+SO2  NSO2 CR   HCMM    -0.459  2   180.00 
+O2CM SO2  CR   HCMM     0.292  2   180.00 
+O2CM SO2  CR   HCMM     0.194  3     0.00 
+HCMM CR   CR   HCMM     0.142  1     0.00 
+HCMM CR   CR   HCMM    -0.693  2   180.00 
+HCMM CR   CR   HCMM     0.157  3     0.00 
+HCMM CB   CB   HCMM     3.500  2   180.00 
+
+IMPROPER
+CB   CB   NSO2 CB       2.519  0     0.00 
+CB   CB   CB   HCMM     1.079  0     0.00 
+CB   CLMM CB   CB       2.519  0     0.00 
+NSO2 CR   CB   SO2      0.000  0     0.00 
+CR   C=O  NSO2 HCMM     0.000  0     0.00 
+C=O  NC=O CR   O=C      9.284  0     0.00 
+NC=O CR   C=O  HNCO    -1.439  0     0.00 
+CR   CR   NC=O HCMM     0.000  0     0.00 
+CR   OR   CR   HCMM     0.000  0     0.00 
+CB   CB   CB   OR       3.454  0     0.00 
+SO2  O2CM NSO2 O2CM     0.000  0     0.00 
+SO2  O2CM NSO2 CR       0.000  0     0.00 
+CR   HCMM SO2  HCMM     0.000  0     0.00 
+CR   HCMM OR   HCMM     0.000  0     0.00 
+
+NONBONDED nbxmod  5 atom cdiel shift vatom vdistance vswitch - 
+cutnb 14.0 ctofnb 12.0 ctonnb 10.0 eps 1.0 e14fac 1.0 wmin 1.5 
+CB      0.000000  -0.070000     1.992400    
+NSO2    0.000000  -0.200000     1.850000   0.000000  -0.200000     1.550000    
+CR      0.000000  -0.056000     2.010000   0.000000  -0.010000     1.900000    
+C=O     0.000000  -0.110000     2.000000    
+NC=O    0.000000  -0.200000     1.850000   0.000000  -0.200000     1.550000    
+HNCO    0.000000  -0.046000     0.224500    
+O=C     0.000000  -0.120000     1.700000   0.000000  -0.120000     1.400000    
+OR      0.000000  -0.152100     1.770000    
+CLMM    0.000000  -0.230000     1.860000    
+SO2     0.000000  -0.470000     2.200000    
+O2CM    0.000000  -0.120000     1.700000    
+HCMM    0.000000  -0.022000     1.320000    
+
+

@@ -1,0 +1,6 @@
+"Criterion","What it Measures","Why it Matters in Drug Development"
+"Druglikeness score (“7/8”, “8/8”)","Compliance with drug-like property rules","Increases chance of oral efficacy and safety"
+"Bioavailability30 == ""Positive""","Predicted/measured oral bioavailability ≥ 30%","Ensures enough drug reaches bloodstream"
+"Caco-2 permeability > -6","Intestinal absorption potential (logPapp)","Predicts good oral absorption"
+"Blood-brain barrier == ""bbb-""","Ability to cross (or not cross) the BBB","Avoids CNS side effects for non-CNS drugs"
+"Plasma-protein binding < 0.7","Fraction of drug bound to plasma proteins","Ensures sufficient free drug for activity"
