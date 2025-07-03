@@ -1,0 +1,32 @@
+{
+    "kvp": 100.0,
+    "convolution_kernel": [
+        "I40f",
+        "3"
+    ],
+    "modality": "CT",
+    "manufacturer": "SIEMENS",
+    "model_name": "SOMATOM Definition Flash",
+    "scanning_sequence": "Unknown",
+    "sequence_variant": "Unknown",
+    "scan_options": "Unknown",
+    "acquisition_type": "Unknown",
+    "slice_thickness": 3.0,
+    "number_of_averages": "Unknown",
+    "spacing_between_slices": "Unknown",
+    "percent_sampling": "Unknown",
+    "protocol_name": "Abd_Urinewegen",
+    "patient_position": "HFS",
+    "orientation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+    ],
+    "pixel_spacing": [
+        0.66015625,
+        0.66015625
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "kvp": 120.0,
+    "convolution_kernel": "B40f",
+    "modality": "CT",
+    "manufacturer": "SIEMENS",
+    "model_name": "Volume Zoom",
+    "scanning_sequence": "Unknown",
+    "sequence_variant": "Unknown",
+    "scan_options": "Unknown",
+    "acquisition_type": "Unknown",
+    "slice_thickness": 4.0,
+    "number_of_averages": "Unknown",
+    "spacing_between_slices": "Unknown",
+    "percent_sampling": "Unknown",
+    "protocol_name": "4_YSL Thx Abd",
+    "patient_position": "FFS",
+    "orientation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+    ],
+    "pixel_spacing": [
+        0.7421875,
+        0.7421875
+    ]
+}

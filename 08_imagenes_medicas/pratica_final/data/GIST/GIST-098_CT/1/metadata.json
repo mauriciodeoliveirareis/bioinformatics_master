@@ -1,0 +1,29 @@
+{
+    "kvp": 100.0,
+    "convolution_kernel": "STANDARD",
+    "modality": "CT",
+    "manufacturer": "",
+    "model_name": "BrightSpeed",
+    "scanning_sequence": "Unknown",
+    "sequence_variant": "Unknown",
+    "scan_options": "HELICAL MODE",
+    "acquisition_type": "Unknown",
+    "slice_thickness": 3.0,
+    "number_of_averages": "Unknown",
+    "spacing_between_slices": "Unknown",
+    "percent_sampling": "Unknown",
+    "protocol_name": "Unknown",
+    "patient_position": "FFS",
+    "orientation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+    ],
+    "pixel_spacing": [
+        0.84375,
+        0.84375
+    ]
+}

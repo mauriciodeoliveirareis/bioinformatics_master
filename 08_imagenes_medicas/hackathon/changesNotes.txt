@@ -1,0 +1,17 @@
+Scores of two runs without changes:
+Dice medio: 0.0017
+IoU medio: 0.0009
+
+Dice medio: 0.0071
+IoU medio: 0.0036
+
+1. Add the metrics=['accuracy'] parameter to  model compilation, 
+not only help monitor training progress but potentially 
+improve the model's learning
+
+Dice medio: 0.3938
+IoU medio: 0.2453
+
+2. Replace the binary cross-entropy loss with Focal loss to
+handle severe class imbalance (203x more background pixels than spleen pixels)
+

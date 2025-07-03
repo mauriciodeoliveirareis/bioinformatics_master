@@ -1,0 +1,29 @@
+{
+    "kvp": 120.0,
+    "convolution_kernel": "B",
+    "modality": "CT",
+    "manufacturer": "Philips",
+    "model_name": "Mx8000 IDT 16",
+    "scanning_sequence": "Unknown",
+    "sequence_variant": "Unknown",
+    "scan_options": "HELIX",
+    "acquisition_type": "Unknown",
+    "slice_thickness": 5.0,
+    "number_of_averages": "Unknown",
+    "spacing_between_slices": 5.0,
+    "percent_sampling": "Unknown",
+    "protocol_name": "FZR Thx + Abd/Thorax/Hx",
+    "patient_position": "FFS",
+    "orientation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+    ],
+    "pixel_spacing": [
+        0.845703125,
+        0.845703125
+    ]
+}

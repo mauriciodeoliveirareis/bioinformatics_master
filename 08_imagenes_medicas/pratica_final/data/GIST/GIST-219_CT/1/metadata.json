@@ -1,0 +1,29 @@
+{
+    "kvp": 120.0,
+    "convolution_kernel": "STANDARD",
+    "modality": "CT",
+    "manufacturer": "GE MEDICAL SYSTEMS",
+    "model_name": "Optima CT660",
+    "scanning_sequence": "Unknown",
+    "sequence_variant": "Unknown",
+    "scan_options": "HELICAL MODE",
+    "acquisition_type": "Unknown",
+    "slice_thickness": 2.5,
+    "number_of_averages": "Unknown",
+    "spacing_between_slices": 1.25,
+    "percent_sampling": "Unknown",
+    "protocol_name": "5.5 Art. Thorbuik(1 helical); blanco, Art.(Thorbuik) + Ven Buik",
+    "patient_position": "FFS",
+    "orientation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+    ],
+    "pixel_spacing": [
+        0.9375,
+        0.9375
+    ]
+}

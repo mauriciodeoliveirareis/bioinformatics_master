@@ -5,3 +5,5 @@
 IGV/
 *.dcm
 *.nii
+*.nii.gz
+*.gif

@@ -1,0 +1,29 @@
+{
+    "kvp": 120.0,
+    "convolution_kernel": "B",
+    "modality": "CT",
+    "manufacturer": "Philips",
+    "model_name": "Brilliance 64",
+    "scanning_sequence": "Unknown",
+    "sequence_variant": "Unknown",
+    "scan_options": "HELIX",
+    "acquisition_type": "Unknown",
+    "slice_thickness": 5.0,
+    "number_of_averages": "Unknown",
+    "spacing_between_slices": 5.0,
+    "percent_sampling": "Unknown",
+    "protocol_name": "Thorax+Abdomen/Abdomen",
+    "patient_position": "FFS",
+    "orientation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+    ],
+    "pixel_spacing": [
+        0.68359375,
+        0.68359375
+    ]
+}

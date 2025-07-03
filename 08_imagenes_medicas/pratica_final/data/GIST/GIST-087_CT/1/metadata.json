@@ -1,0 +1,29 @@
+{
+    "kvp": 100.0,
+    "convolution_kernel": "STANDARD",
+    "modality": "CT",
+    "manufacturer": "GE MEDICAL SYSTEMS",
+    "model_name": "Optima CT660",
+    "scanning_sequence": "Unknown",
+    "sequence_variant": "Unknown",
+    "scan_options": "HELICAL MODE",
+    "acquisition_type": "Unknown",
+    "slice_thickness": 0.625,
+    "number_of_averages": "Unknown",
+    "spacing_between_slices": 0.625,
+    "percent_sampling": "Unknown",
+    "protocol_name": "5.9 THORAX/ABDOMEN/HALS",
+    "patient_position": "FFS",
+    "orientation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+    ],
+    "pixel_spacing": [
+        0.683594,
+        0.683594
+    ]
+}

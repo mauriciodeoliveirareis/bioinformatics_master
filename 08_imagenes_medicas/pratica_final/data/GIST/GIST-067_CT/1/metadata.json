@@ -1,0 +1,29 @@
+{
+    "kvp": 120.0,
+    "convolution_kernel": "FC02",
+    "modality": "CT",
+    "manufacturer": "TOSHIBA",
+    "model_name": "Aquilion",
+    "scanning_sequence": "Unknown",
+    "sequence_variant": "Unknown",
+    "scan_options": "HELICAL_CT",
+    "acquisition_type": "Unknown",
+    "slice_thickness": 3.0,
+    "number_of_averages": "Unknown",
+    "spacing_between_slices": "Unknown",
+    "percent_sampling": "Unknown",
+    "protocol_name": "18 Thorax/Abdomen(tumor/meta)A+V",
+    "patient_position": "FFS",
+    "orientation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+    ],
+    "pixel_spacing": [
+        0.781,
+        0.781
+    ]
+}
